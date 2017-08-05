@@ -1,0 +1,130 @@
+<link rel="shortcut icon"
+ href="http://www.droidsrobotics.org/favicon.ico" />
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="viewport" content="width=device-width,
+
+<html>
+<img height="100" src="droidslogo.png"
+<head>
+<title>Wheel Dimensions to Degrees Converter</title>
+<link rel="stylesheet" type="text/css" href="./FLL World Class Scorer_files/style.css" /><link rel="shortcut icon" type="image/ico" href="Images/Icon.ico" />
+</head>
+<body>
+<h1>Automatic Centimeters/Inches to Degrees Calculator</h1>
+This tool can be used to easily convert your wheel/tire size information into useful data to be used by your First Lego League team.
+<form name="calculator" >
+
+<br>
+<b>STEP 1:</b>
+Wheel Dimensions
+<br>
+<br>
+Input your wheel diameter in millimeters *-OR-* You can pick one of the tires commonly used by FLL teams below.
+
+<br>
+<input type="textfield" name="wheelSize" value="">
+<br>
+
+<table>
+    <tr>
+    <td>
+            <img src="photo2.JPG" alt="Basic EV3 wheel">
+     </td>
+    <td>
+            <img src="photo3.JPG" alt="Largest NXT wheel">
+    </td>
+    <td>
+            <img src="photo4.JPG" alt="NXT REM-BOT wheel">
+    </td>
+    <td>
+            <img src="photo5.JPG" alt="Basic NXT wheel #2">
+    </td>
+    </tr>
+    <tr align="center">
+        <td>
+            <input type="button" value="Select" onClick="document.calculator.wheelSize.value='56'">
+            <br>
+                EV3 basic tire - 56&times;28
+            <br>
+        </td>
+        <td>
+            <input type="button" value="Select" onClick="document.calculator.wheelSize.value='81.6'">
+            <br>
+                Motorcycle tire - 81.6&times;15
+            <br>
+        </td>
+        <td>
+            <input type="button" value="Select" onClick="document.calculator.wheelSize.value='56'">
+            <br>
+                Balloon tire - 56&times;26
+            <br>
+        </td>
+        <td>
+            <input type="button" value="Select" onClick="document.calculator.wheelSize.value='43.2'">
+            <br>
+                Small tire - 43.2&times;22
+            <br>
+        </td>
+</tr>
+</table>
+
+
+<br><b>STEP 2:</b> Moving Distance
+<br>
+<br>
+Input the distance you would like the robot to move in either inches or centimeters:
+<br>
+inches: <input type="textfield" name="inches" value="" onblur="document.calculator.cm.value=2.54*document.calculator.inches.value">
+    <br>
+centimeters: <input type="textfield" name="cm" value="" onblur="document.calculator.inches.value=document.calculator.cm.value/2.54">
+
+
+    
+<br>
+<br>
+<b>STEP 3:</b> Hit the button to calculate!
+<br>
+<br>
+<input type="button" value="CALCULATE" onClick="document.calculator.circum.value=Math.PI*document.calculator.wheelSize.value/10;
+    document.calculator.dist.value=document.calculator.cm.value;
+    document.calculator.rotations.value=document.calculator.dist.value/document.calculator.circum.value;
+    document.calculator.degrees.value=document.calculator.rotations.value*360">
+
+<br>
+<br> Total distance to travel (in cm):
+    <input type="textfield" name="dist" readonly="" value="0">
+<br> Circumference of your wheel (in cm) is (&pi; * diameter):
+    <input type="textfield" name="circum" readonly="" value="0">
+<br> The number of rotations your robot needs to move is (distance to travel &divide; circumference):
+    <input type="textfield" name="rotations" readonly="" value="0">
+<br> The number of degrees your robot needs to move is: (rotations &times; 360):
+    <input type="textfield" name="degrees" readonly="" value="0">
+<br>
+<br>
+<b>STEP 4:</b> Using the Values
+<br>
+<br>
+Use the rotations or degrees values from STEP 3 in your code.  Now you can measure in centimeters/inches and still program in degrees or rotations!
+<br>
+<br>
+<input type="button" value="Exit to our resources page" id="ContentBody_btnCancel" onClick="parent.location='http://www.ev3lessons.com/'">
+<br>
+<br>
+
+
+Thank you for using this calculator!
+<br> This calulator was made by Sanjay Seshan for Droids Robotics. If you find any mistakes or have a recomendation, please feel free to contact us!  If you have a favorite wheel, I can add it.  Email: <a href="mailto:team@droidsrobotics.org">team@droidsrobotics.org</a>
+    <br>
+    <br>
+    &copy; Copyright Droids Robotics 2014
+    
+<br>
+<br>
+Version 2.5
+</form>
+</body>
+</html>
+
+
+
+

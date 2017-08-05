@@ -1,0 +1,816 @@
+103.1.70.66; 103.1.70.66; 5.2999,100.2605; Bayan Lepas; Pulau Pinang; MY
+109.78.84.200; 109.78.84.200; 53.0000,-8.0000; None; None; IE
+206.193.251.72; 206.193.251.72.nauticom.net; 40.7219,-79.7469; Sarver; Pennsylvania; US
+108.219.129.150; 108-219-129-150.lightspeed.oshkwi.sbcglobal.net; 44.5392,-88.0579; Green Bay; Wisconsin; US
+24.218.177.142; c-24-218-177-142.hsd1.ma.comcast.net; 42.4853,-71.4418; Acton; Massachusetts; US
+67.183.200.71; c-67-183-200-71.hsd1.wa.comcast.net; 47.1032,-122.8649; Olympia; Washington; US
+108.18.3.55; pool-108-18-3-55.washdc.east.verizon.net; 38.8600,-77.0987; Arlington; Virginia; US
+74.133.31.3; cpe-74-133-31-3.swo.res.rr.com; 37.9708,-87.4897; Evansville; Indiana; US
+98.111.220.189; wireless_broadband_router; 40.5048,-79.9132; Pittsburgh; Pennsylvania; US
+50.53.42.187; static-50-53-42-187.bvtn.or.frontiernet.net; 45.5534,-122.8192; Portland; Oregon; US
+24.8.246.183; c-24-8-246-183.hsd1.co.comcast.net; 40.6265,-106.9272; Steamboat Springs; Colorado; US
+103.1.70.66; 103.1.70.66; 5.2999,100.2605; Bayan Lepas; Pulau Pinang; MY
+109.78.84.200; 109.78.84.200; 53.0000,-8.0000; None; None; IE
+206.193.251.72; 206.193.251.72.nauticom.net; 40.7219,-79.7469; Sarver; Pennsylvania; US
+108.219.129.150; 108-219-129-150.lightspeed.oshkwi.sbcglobal.net; 44.5392,-88.0579; Green Bay; Wisconsin; US
+24.218.177.142; c-24-218-177-142.hsd1.ma.comcast.net; 42.4853,-71.4418; Acton; Massachusetts; US
+67.183.200.71; c-67-183-200-71.hsd1.wa.comcast.net; 47.1032,-122.8649; Olympia; Washington; US
+108.18.3.55; pool-108-18-3-55.washdc.east.verizon.net; 38.8600,-77.0987; Arlington; Virginia; US
+74.133.31.3; cpe-74-133-31-3.swo.res.rr.com; 37.9708,-87.4897; Evansville; Indiana; US
+98.111.220.189; wireless_broadband_router; 40.5048,-79.9132; Pittsburgh; Pennsylvania; US
+50.53.42.187; static-50-53-42-187.bvtn.or.frontiernet.net; 45.5534,-122.8192; Portland; Oregon; US
+24.8.246.183; c-24-8-246-183.hsd1.co.comcast.net; 40.6265,-106.9272; Steamboat Springs; Colorado; US
+71.81.89.212; 71-81-89-212.dhcp.stls.mo.charter.com; 38.0000,-97.0000; None; None; US
+24.210.197.6; cpe-24-210-197-6.neo.res.rr.com; 41.3134,-81.4974; Macedonia; Ohio; US
+70.123.193.163; cpe-70-123-193-163.satx.res.rr.com; 29.5689,-98.2229; Cibolo; Texas; US
+107.77.68.86; 107.77.68.86; 37.6940,-85.8591; Elizabethtown; Kentucky; US
+98.125.199.156; 98.125.199.156; 48.1987,-114.3857; Kalispell; Montana; US
+69.28.46.114; cust-46114.ptera.net; 47.7877,-117.4555; Spokane; Washington; US
+50.5.134.114; 50-5-134-114.dynamic.fuse.net; 38.0000,-97.0000; None; None; US
+216.46.148.94; pppoe-148-94.hay.net; 43.3471,-81.6356; Dashwood; Ontario; CA
+108.32.36.53; pool-108-32-36-53.phlapa.fios.verizon.net; 40.4242,-79.8913; Pittsburgh; Pennsylvania; US
+99.60.169.52; 99-60-169-52.lightspeed.frsnca.sbcglobal.net; 36.8663,-119.6207; Clovis; California; US
+108.18.10.180; pool-108-18-10-180.washdc.east.verizon.net; 38.8442,-77.0885; Arlington; Virginia; US
+207.46.13.23; msnbot-207-46-13-23.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+157.55.39.201; msnbot-157-55-39-201.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+157.55.39.37; msnbot-157-55-39-37.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+198.105.65.197; gateway.steelcase.com; 42.9634,-85.6681; Grand Rapids; Michigan; US
+96.36.19.66; 96-36-19-66.static.aldl.mi.charter.com; 38.0000,-97.0000; None; None; US
+109.77.9.171; 109.77.9.171; 53.0000,-8.0000; None; None; IE
+50.175.40.213; c-50-175-40-213.hsd1.tx.comcast.net; 29.9779,-95.5770; Houston; Texas; US
+79.150.42.165; 165.red-79-150-42.dynamicip.rima-tde.net; 41.3996,2.1481; Barcelona; Catalonia; ES
+207.242.44.6; firewall2.westernsouthernlife.com; 39.1097,-84.5046; Cincinnati; Ohio; US
+8.28.16.254; 8.28.16.254; 38.0000,-97.0000; None; None; US
+70.215.49.85; 85.sub-70-215-49.myvzw.com; 38.0000,-97.0000; None; None; US
+64.31.72.65; diala-bu-072-065.wcnet.org; 41.6639,-83.5552; Toledo; Ohio; US
+136.1.1.113; 136.1.1.113; 42.3684,-83.3527; Livonia; Michigan; US
+99.116.156.207; 99-116-156-207.lightspeed.nworla.sbcglobal.net; 30.2712,-89.7705; Slidell; Louisiana; US
+66.249.79.105; crawl-66-249-79-105.googlebot.com; 37.4192,-122.0574; Mountain View; California; US
+66.249.79.97; crawl-66-249-79-97.googlebot.com; 37.4192,-122.0574; Mountain View; California; US
+66.249.79.113; crawl-66-249-79-113.googlebot.com; 37.4192,-122.0574; Mountain View; California; US
+101.187.152.221; grs1501595.lnk.telstra.net; -27.0000,133.0000; None; None; AU
+59.18.114.162; 59.18.114.162; 37.5700,126.9800; None; None; KR
+86.47.126.95; 86.47.126.95; 53.0000,-8.0000; None; None; IE
+67.211.114.82; 67.211.114.82; 43.6667,-79.4167; Toronto; Ontario; CA
+128.109.1.170; box.surry.k12.nc.us; 36.3786,-80.6300; Dobson; North Carolina; US
+208.90.129.99; 208.90.129.99; 44.9444,-93.0933; Saint Paul; Minnesota; US
+68.15.197.227; 68.15.197.227; 36.0607,-95.8064; Broken Arrow; Oklahoma; US
+50.121.72.4; 50.121.72.4; 41.1306,-85.1289; Fort Wayne; Indiana; US
+80.121.103.222; 80-121-103-222.adsl.highway.telekom.at; 46.6103,13.8558; Villach; Karnten; AT
+165.161.9.27; bc7.palmbeach.k12.fl.us; 26.7153,-80.0534; West Palm Beach; Florida; US
+66.249.65.157; crawl-66-249-65-157.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+66.249.65.153; crawl-66-249-65-153.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+66.249.65.1; crawl-66-249-65-1.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+66.249.65.137; crawl-66-249-65-137.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+66.249.65.129; crawl-66-249-65-129.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+66.249.65.133; crawl-66-249-65-133.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+66.249.83.113; google-proxy-66-249-83-113.google.com; 37.4192,-122.0574; Mountain View; California; US
+73.34.207.204; 73.34.207.204; 38.0000,-97.0000; None; None; US
+24.239.193.19; dynamic-acs-24-239-193-19.zoominternet.net; 40.6421,-79.9445; Gibsonia; Pennsylvania; US
+24.91.24.67; c-24-91-24-67.hsd1.ct.comcast.net; 43.3230,-72.4700; Springfield; Vermont; US
+70.166.234.131; wsip-70-166-234-131.ks.ks.cox.net; 36.1882,-94.2373; Springdale; Arkansas; US
+8.225.196.9; 8.225.196.9; 40.6421,-79.9445; Gibsonia; Pennsylvania; US
+207.183.179.140; dsl-207-183-179-140.freedom.wy.silverstar.com; 43.7485,-111.0393; Driggs; Idaho; US
+149.78.164.16; 149.78.164.16; 31.5000,34.7500; None; None; IL
+129.74.118.221; nd-129-74-118-221.nat.nd.edu; 41.7007,-86.2501; Notre Dame; Indiana; US
+128.193.8.12; 8-12.ptpg.oregonstate.edu; 44.5642,-123.2790; Corvallis; Oregon; US
+216.126.81.227; 216.126.81.227; 43.6858,-79.7602; Brampton; Ontario; CA
+80.121.92.80; 80-121-92-80.adsl.highway.telekom.at; 48.5572,13.7781; Oberkappel; Oberosterreich; AT
+216.126.81.197; 216.126.81.197; 43.6858,-79.7602; Brampton; Ontario; CA
+204.38.47.132; 204.38.47.132; 43.4236,-84.2208; Hemlock; Michigan; US
+24.217.89.85; 24-217-89-85.dhcp.stls.mo.charter.com; 38.5647,-90.5357; Ballwin; Missouri; US
+186.106.56.74; 186-106-56-74.baf.movistar.cl; -30.0000,-71.0000; None; None; CL
+67.190.21.26; c-67-190-21-26.hsd1.co.comcast.net; 39.5811,-104.9570; Littleton; Colorado; US
+24.31.136.229; cpe-24-31-136-229.maine.res.rr.com; 44.8635,-68.8402; Bangor; Maine; US
+206.219.255.152; parnet.parsons.com; 33.7866,-118.2987; Pasadena; California; US
+199.116.169.254; 199.116.169.254; 47.6062,-122.3321; Seattle; Washington; US
+64.74.215.60; 64.74.215.60; 33.7516,-84.3915; Atlanta; Georgia; US
+66.249.67.153; crawl-66-249-67-153.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+66.249.67.145; crawl-66-249-67-145.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+81.33.19.15; 15.red-81-33-19.staticip.rima-tde.net; 40.8842,-1.5679; Odón; Aragon; ES
+193.23.33.123; vpnt.bmw.com; 48.1224,11.5449; Munich; Bayern; DE
+99.229.205.182; cpe0c473dd40e61-cm0c473dd40e60.cpe.net.cable.rogers.com; 43.6092,-79.6201; Mississauga; Ontario; CA
+192.189.128.14; bc6.cat.com; 40.7774,-89.5749; Peoria; Illinois; US
+138.162.0.41; gate1-norfolk.nmci.navy.mil; 36.8468,-76.2852; Norfolk; Virginia; US
+76.108.136.81; c-76-108-136-81.hsd1.fl.comcast.net; 26.3483,-80.1585; Boca Raton; Florida; US
+138.162.0.43; gate3-norfolk.nmci.navy.mil; 36.8468,-76.2852; Norfolk; Virginia; US
+138.162.0.42; gate2-norfolk.nmci.navy.mil; 36.8468,-76.2852; Norfolk; Virginia; US
+137.69.117.53; 137.69.117.53; 37.3394,-121.8950; San Jose; California; US
+208.100.40.43; ip43.208-100-40.static.steadfastdns.net; 41.8745,-87.6503; Chicago; Illinois; US
+65.0.132.141; adsl-65-0-132-141.jan.bellsouth.net; 33.9384,-88.2570; Greenwood Springs; Mississippi; US
+66.249.67.25; crawl-66-249-67-25.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+66.249.67.17; crawl-66-249-67-17.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+169.204.230.154; 169.204.230.154; 48.0518,-122.1771; Marysville; Washington; US
+99.228.77.90; cpebcc810073b70-cmbcc810073b6d.cpe.net.cable.rogers.com; 43.5581,-79.5738; Mississauga; Ontario; CA
+69.58.178.59; 69.58.178.59; 38.9599,-77.3428; Reston; Virginia; US
+208.187.180.81; customer.veracitycom.net; 38.0000,-97.0000; None; None; US
+66.249.67.108; crawl-66-249-67-108.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+66.249.67.100; crawl-66-249-67-100.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+66.249.67.92; crawl-66-249-67-92.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+184.171.208.124; lns5-pool1-124.adsl.user.start.ca; 42.9793,-81.2556; London; Ontario; CA
+174.71.2.192; ip174-71-2-192.om.om.cox.net; 41.2468,-95.7001; Council Bluffs; Iowa; US
+50.53.158.146; static-50-53-158-146.bvtn.or.frontiernet.net; 45.3653,-122.7579; Tualatin; Oregon; US
+2.246.72.151; x2f64897.dyn.telefonica.de; 51.0000,9.0000; None; None; DE
+193.158.185.143; pc19eb98f.dip0.t-ipconnect.de; 50.6000,6.6500; Mechernich; Nordrhein-Westfalen; DE
+37.210.176.138; 37.210.176.138; 25.2867,51.5333; Doha; Ad Dawhah; QA
+66.249.67.113; crawl-66-249-67-113.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+66.249.67.105; crawl-66-249-67-105.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+66.249.67.97; crawl-66-249-67-97.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+66.249.67.33; crawl-66-249-67-33.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+89.183.50.123; a89-183-50-123.net-htp.de; 52.3586,9.7558; Hanover; Niedersachsen; DE
+8.225.196.132; 8.225.196.132; 40.3224,-80.0355; Bethel Park; Pennsylvania; US
+70.88.198.102; 70-88-198-102-newengland.hfc.comcastbusiness.net; 42.3117,-71.2722; Wellesley Hills; Massachusetts; US
+72.198.8.42; ip72-198-8-42.ok.ok.cox.net; 35.5423,-97.6189; Oklahoma City; Oklahoma; US
+66.249.64.189; crawl-66-249-64-189.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+66.41.192.192; c-66-41-192-192.hsd1.mn.comcast.net; 44.9054,-92.8829; Saint Paul; Minnesota; US
+72.160.26.24; 72-160-26-24.dyn.centurytel.net; 48.1987,-114.3857; Kalispell; Montana; US
+174.29.73.161; 174-29-73-161.hlrn.qwest.net; 39.7392,-104.9847; Denver; Colorado; US
+76.92.66.45; 76.92.66.45; 39.4841,-80.0601; Fairmont; West Virginia; US
+24.90.117.218; cpe-24-90-117-218.nyc.res.rr.com; 40.6501,-73.9496; Brooklyn; New York; US
+66.249.64.185; crawl-66-249-64-185.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+75.60.233.153; 75-60-233-153.uvs.sndgca.sbcglobal.net; 38.0000,-97.0000; None; None; US
+66.249.64.49; crawl-66-249-64-49.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+72.24.143.124; 72-24-143-124.cpe.cableone.net; 46.3690,-117.2288; Clarkston; Washington; US
+199.59.243.121; 115.115.93.210.static-pune.tcl.net.in; 40.7391,-73.9826; New York; New York; US
+66.249.64.53; crawl-66-249-64-53.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+66.249.64.164; crawl-66-249-64-164.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+66.249.64.168; crawl-66-249-64-168.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+98.223.236.191; c-98-223-236-191.hsd1.in.comcast.net; 39.0836,-86.4321; Bloomington; Indiana; US
+76.226.62.168; adsl-76-226-62-168.dsl.sfldmi.sbcglobal.net; 42.4734,-83.2219; Southfield; Michigan; US
+66.249.64.45; crawl-66-249-64-45.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+66.249.64.193; crawl-66-249-64-193.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+66.249.67.3; crawl-66-249-67-3.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+150.70.173.49; 150-70-173-49.trendmicro.com; 35.6900,139.6900; None; None; JP
+4.31.10.254; spark-fun-e.edge3.denver1.level3.net; 40.0153,-105.1076; Lafayette; Colorado; US
+82.72.161.232; 5248a1e8.cm-4-1c.dynamic.ziggo.nl; 52.3567,6.6625; Almelo; Overijssel; NL
+108.49.139.220; pool-108-49-139-220.bstnma.fios.verizon.net; 42.4574,-71.2178; Lexington; Massachusetts; US
+184.96.166.22; 184-96-166-22.hlrn.qwest.net; 39.7392,-104.9847; Denver; Colorado; US
+107.138.41.12; 107-138-41-12.lightspeed.sntcca.sbcglobal.net; 37.1931,-121.8364; San Jose; California; US
+83.45.2.253; 253.red-83-45-2.dynamicip.rima-tde.net; 36.8337,-2.4483; Almería; Andalucia; ES
+100.1.224.71; pool-100-1-224-71.nwrknj.fios.verizon.net; 40.7223,-74.4037; Chatham; New Jersey; US
+107.77.90.128; 107.77.90.128; 38.0000,-97.0000; None; None; US
+24.53.87.77; dhcp-2c-b0-5d-1e-8e-10.cpe.xcountry.tv; 45.0917,-64.3599; Wolfville; Nova Scotia; CA
+24.101.83.172; dynamic-acs-24-101-83-172.zoominternet.net; 38.4130,-82.7257; Ashland; Kentucky; US
+184.167.153.108; host-184-167-153-108.csp-wy.client.bresnan.net; 42.8260,-106.3523; Casper; Wyoming; US
+67.6.39.89; 67-6-39-89.mpls.qwest.net; 44.9800,-93.2638; Minneapolis; Minnesota; US
+75.71.48.98; c-75-71-48-98.hsd1.co.comcast.net; 38.9584,-104.7573; Colorado Springs; Colorado; US
+50.161.254.158; c-50-161-254-158.hsd1.ca.comcast.net; 38.6027,-121.2687; Rancho Cordova; California; US
+108.45.77.79; pool-108-45-77-79.washdc.fios.verizon.net; 38.6780,-77.3197; Woodbridge; Virginia; US
+66.249.69.121; crawl-66-249-69-121.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+66.249.69.105; crawl-66-249-69-105.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+74.98.225.194; pool-74-98-225-194.pitbpa.fios.verizon.net; 40.5465,-80.0525; Pittsburgh; Pennsylvania; US
+96.255.230.133; pool-96-255-230-133.washdc.fios.verizon.net; 38.9995,-77.5286; Ashburn; Virginia; US
+84.136.142.130; p54888e82.dip0.t-ipconnect.de; 52.2738,8.0521; Osnabrück; Niedersachsen; DE
+66.249.69.137; crawl-66-249-69-137.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+66.249.69.145; crawl-66-249-69-145.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+87.147.19.243; p579313f3.dip0.t-ipconnect.de; 51.4340,7.0161; Essen; Nordrhein-Westfalen; DE
+173.60.255.37; pool-173-60-255-37.lsanca.fios.verizon.net; 33.6848,-117.3724; Lake Elsinore; California; US
+216.40.84.169; 216.40.84.169; 39.1748,-77.5326; Leesburg; Virginia; US
+66.249.69.161; crawl-66-249-69-161.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+24.96.4.66; user-24-96-4-66.knology.net; 34.7135,-86.7421; Madison; Alabama; US
+72.37.244.172; 1743ob.scansafe.net; 45.5234,-122.6762; None; Oregon; US
+166.137.88.37; akrmspsrvz3ts323-dmz.mycingular.net; 38.8951,-77.0364; Washington; District of Columbia; US
+66.249.69.97; crawl-66-249-69-97.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+76.18.242.153; c-76-18-242-153.hsd1.fl.comcast.net; 30.1945,-81.6006; Jacksonville; Florida; US
+71.253.125.136; pool-71-253-125-136.eriepa.dsl-w.verizon.net; 42.1781,-79.8417; North East; Pennsylvania; US
+107.138.156.33; 107-138-156-33.lightspeed.rlghnc.sbcglobal.net; 35.7114,-78.8862; Apex; North Carolina; US
+96.230.23.180; pool-96-230-23-180.bstnma.fios.verizon.net; 42.2658,-71.6105; Westborough; Massachusetts; US
+66.249.69.113; crawl-66-249-69-113.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+58.167.175.237; cpe-58-167-175-237.lnse4.cha.bigpond.net.au; -27.4710,153.0243; Brisbane; Queensland; AU
+98.254.38.248; c-98-254-38-248.hsd1.fl.comcast.net; 26.7063,-80.2072; West Palm Beach; Florida; US
+75.167.82.10; 75-167-82-10.desm.qwest.net; 41.5720,-93.7453; West Des Moines; Iowa; US
+99.37.201.109; 99-37-201-109.lightspeed.dllstx.sbcglobal.net; 32.9722,-96.7376; Richardson; Texas; US
+173.174.137.131; cpe-173-174-137-131.satx.res.rr.com; 29.5834,-98.3994; San Antonio; Texas; US
+50.53.35.223; static-50-53-35-223.bvtn.or.frontiernet.net; 45.5222,-122.8593; Beaverton; Oregon; US
+24.192.13.149; d192-24-149-13.try.wideopenwest.com; 42.3291,-83.4877; Canton; Michigan; US
+124.183.72.155; cpe-124-183-72-155.lns13.ken.bigpond.net.au; -33.7000,151.0000; Glenhaven; New South Wales; AU
+198.175.154.212; us194px00-pat.tycoelectronics.com; 40.2737,-76.8844; Harrisburg; Pennsylvania; US
+84.228.132.169; igld-84-228-132-169.inter.net.il; 32.0667,34.7667; Tel Aviv; Tel Aviv; IL
+99.151.0.16; 99-151-0-16.lightspeed.snrmca.sbcglobal.net; 37.7186,-121.9164; Dublin; California; US
+70.88.243.73; connect.divtecs.com; 42.4184,-71.1062; Medford; Massachusetts; US
+204.128.4.5; 204.128.4.5; 39.5675,-79.9363; Morgantown; West Virginia; US
+172.9.168.164; 172-9-168-164.lightspeed.hstntx.sbcglobal.net; 29.5142,-95.1903; Friendswood; Texas; US
+24.131.129.85; c-24-131-129-85.hsd1.mn.comcast.net; 45.0648,-92.8473; Stillwater; Minnesota; US
+71.11.71.55; blk-11-71-55.eastlink.ca; 43.3740,-124.1477; Coos Bay; Oregon; US
+50.196.255.141; 50-196-255-141-static.hfc.comcastbusiness.net; 41.9792,-88.0895; Roselle; Illinois; US
+128.158.1.164; 128.158.1.164; 34.6685,-86.5576; Huntsville; Alabama; US
+173.75.2.16; pool-173-75-2-16.pitbpa.fios.verizon.net; 40.2713,-80.1702; Canonsburg; Pennsylvania; US
+66.249.69.129; crawl-66-249-69-129.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+88.159.78.243; 243-78-ftth.on.nl; 51.4408,5.4778; Eindhoven; Noord-Brabant; NL
+159.63.2.158; 159.63.2.158; 39.9612,-82.9988; Columbus; Ohio; US
+208.94.43.52; 208.94.43.52; 40.3356,-79.5507; Greensburg; Pennsylvania; US
+71.95.111.62; 71-95-111-62.dhcp.knwc.wa.charter.com; 45.6119,-121.5866; Hood River; Oregon; US
+98.111.252.95; pool-98-111-252-95.pitbpa.fios.verizon.net; 40.3224,-80.0355; Bethel Park; Pennsylvania; US
+71.162.2.62; pool-71-162-2-62.pitbpa.fios.verizon.net; 40.4067,-80.1108; Carnegie; Pennsylvania; US
+50.153.161.8; 50.153.161.8; 33.7490,-84.3880; Atlanta; Georgia; US
+50.187.92.216; c-50-187-92-216.hsd1.vt.comcast.net; 43.6445,-72.9005; Rutland; Vermont; US
+76.164.60.100; 76.164.60.100; 44.6742,-93.4103; Prior Lake; Minnesota; US
+24.98.99.88; c-24-98-99-88.hsd1.ga.comcast.net; 33.7490,-84.3880; Atlanta; Georgia; US
+24.34.164.220; c-24-34-164-220.hsd1.ma.comcast.net; 42.1696,-71.0606; Randolph; Massachusetts; US
+199.204.83.230; 199-204-83-230.lfytina2.metronetinc.net; 40.4763,-86.9571; West Lafayette; Indiana; US
+68.2.98.139; ip68-2-98-139.ph.ph.cox.net; 33.4223,-111.8226; Mesa; Arizona; US
+220.181.126.4; 220.181.126.4; 39.9289,116.3883; Beijing; Beijing; CN
+76.5.66.215; va-76-5-66-215.dhcp.embarqhsd.net; 37.8076,-78.6842; Schuyler; Virginia; US
+212.235.98.140; nvout2-140.iai.co.il; 31.5000,34.7500; None; None; IL
+199.19.249.196; 199.19.249.196; 37.3688,-122.0363; Sunnyvale; California; US
+213.130.112.197; 213.130.112.197; 25.2867,51.5333; Doha; Ad Dawhah; QA
+213.8.52.148; 213.8.52.148; 32.0667,34.7667; Tel Aviv; Tel Aviv; IL
+66.249.69.233; crawl-66-249-69-233.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+80.126.176.82; a80-126-176-82.adsl.xs4all.nl; 52.5000,5.7500; None; None; NL
+24.179.7.51; 24-179-7-51.static.leds.al.charter.com; 33.3151,-86.7560; Pelham; Alabama; US
+199.72.185.82; 199.72.185.82; 43.1005,-77.4260; Fairport; New York; US
+174.76.243.34; wsip-174-76-243-34.no.no.cox.net; 29.8180,-89.6325; Chandeleur Islands; Louisiana; US
+65.60.172.250; d60-250-172.col.wideopenwest.com; 40.1018,-83.0730; Columbus; Ohio; US
+75.166.49.185; 75-166-49-185.hlrn.qwest.net; 38.0000,-97.0000; None; None; US
+72.195.158.213; ip72-195-158-213.ri.ri.cox.net; 41.9171,-71.4423; Lincoln; Rhode Island; US
+64.1.53.34; 64.1.53.34.ptr.us.xo.net; 33.7490,-84.3880; Atlanta; Georgia; US
+75.174.57.70; 75-174-57-70.bois.qwest.net; 42.4199,-114.5915; Twin Falls; Idaho; US
+93.173.16.103; 93-173-16-103.bb.netvision.net.il; 32.0667,34.7667; Tel Aviv; Tel Aviv; IL
+129.116.232.124; begpc43.beg.utexas.edu; 30.2961,-97.7369; Austin; Texas; US
+207.70.182.194; sacred-heart-main-internet.consolidated.net; 30.3217,-95.5242; Conroe; Texas; US
+99.229.123.1; cpe7cb21b1a4a76-cm7cb21b1a4a73.cpe.net.cable.rogers.com; 43.5892,-79.7239; Mississauga; Ontario; CA
+128.252.20.193; admin998.cec.wustl.edu; 38.6657,-90.3231; Saint Louis; Missouri; US
+204.10.252.226; 204.10.252.226; 40.6265,-106.9272; Steamboat Springs; Colorado; US
+108.55.71.28; 108.55.71.28; 40.2737,-76.8844; Harrisburg; Pennsylvania; US
+119.253.32.1; 119.253.32.1; 39.5097,116.6947; Langfang; Hebei; CN
+107.10.250.218; cpe-107-10-250-218.neo.res.rr.com; 39.8686,-86.1003; Indianapolis; Indiana; US
+173.22.4.252; 173-22-4-252.client.mchsi.com; 41.6727,-93.5722; Des Moines; Iowa; US
+174.107.155.66; cpe-174-107-155-066.sc.res.rr.com; 33.5603,-79.0441; Murrells Inlet; South Carolina; US
+220.181.126.28; 220.181.126.28; 39.9289,116.3883; Beijing; Beijing; CN
+220.181.126.42; 220.181.126.42; 39.9289,116.3883; Beijing; Beijing; CN
+220.181.126.30; 220.181.126.30; 39.9289,116.3883; Beijing; Beijing; CN
+98.20.183.181; h181.183.20.98.dynamic.ip.windstream.net; 35.0986,-92.2175; Vilonia; Arkansas; US
+24.60.52.38; c-24-60-52-38.hsd1.ct.comcast.net; 41.3158,-73.1354; Shelton; Connecticut; US
+76.217.165.245; 76-217-165-245.lightspeed.irvnca.sbcglobal.net; 34.3759,-118.6162; Stevenson Ranch; California; US
+85.64.254.232; 85.64.254.232.dynamic.barak-online.net; 32.1750,34.9069; Kefár Saba; HaMerkaz; IL
+208.91.96.4; 208.91.96.4; 30.5331,-96.0002; Anderson; Texas; US
+98.138.140.92; h011.llfs.ne1.yahoo.com; 37.4249,-122.0074; Sunnyvale; California; US
+153.65.16.10; nat10.teradata.com; 39.6182,-84.2488; Miamisburg; Ohio; US
+76.18.231.27; c-76-18-231-27.hsd1.fl.comcast.net; 30.2908,-81.6330; Jacksonville; Florida; US
+129.42.208.182; bi-02pt1.bluebird.ibm.com; 35.2271,-80.8431; None; North Carolina; US
+80.98.48.141; catv-80-98-48-141.catv.broadband.hu; 47.5000,19.0833; Budapest; Budapest; HU
+173.247.174.166; 173-247-174-166.static-ip.telepacific.net; 33.7584,-118.3163; Rancho Palos Verdes; California; US
+73.169.54.100; c-73-169-54-100.hsd1.co.comcast.net; 38.0000,-97.0000; None; None; US
+24.126.228.131; c-24-126-228-131.hsd1.ga.comcast.net; 33.9846,-83.6978; Winder; Georgia; US
+107.1.124.32; 107-1-124-32-ip-static.hfc.comcastbusiness.net; 38.0000,-97.0000; None; None; US
+176.219.175.149; 176.219.175.149; 40.7806,30.4033; Sakarya; Sakarya; TR
+70.194.241.113; 113.sub-70-194-241.myvzw.com; 38.0000,-97.0000; None; None; US
+166.137.244.93; mobile-166-137-244-093.mycingular.net; 38.0000,-97.0000; None; None; US
+68.255.255.45; adsl-68-255-255-45.dsl.bcvloh.ameritech.net; 41.4995,-81.6954; Cleveland; Ohio; US
+84.95.226.188; 84.95.226.188.forward.012.net.il; 31.5000,34.7500; None; None; IL
+173.78.42.218; pool-173-78-42-218.tampfl.fios.verizon.net; 28.0898,-82.5760; Tampa; Florida; US
+5.47.90.35; 5.47.90.35; 38.4127,27.1384; Izmir; Izmir; TR
+88.10.15.153; 153.red-88-10-15.dynamicip.rima-tde.net; 41.3818,2.1685; Barcelona; Catalonia; ES
+207.46.13.140; msnbot-207-46-13-140.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+207.46.13.114; msnbot-207-46-13-114.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+157.55.39.118; msnbot-157-55-39-118.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+72.11.87.171; mail.imerjent.com; 45.3234,-122.9820; Newberg; Oregon; US
+54.87.160.16; ec2-54-87-160-16.compute-1.amazonaws.com; 39.0437,-77.4875; Ashburn; Virginia; US
+71.179.232.179; pool-71-179-232-179.bltmmd.fios.verizon.net; 39.2018,-76.9310; Clarksville; Maryland; US
+24.9.66.148; c-24-9-66-148.hsd1.co.comcast.net; 39.7294,-104.8319; Aurora; Colorado; US
+173.60.97.170; pool-173-60-97-170.lsanca.fios.verizon.net; 33.5363,-117.0439; Temecula; California; US
+71.68.235.25; cpe-071-068-235-025.sc.res.rr.com; 33.6359,-79.0280; Myrtle Beach; South Carolina; US
+107.77.76.45; 107.77.76.45; 38.0000,-97.0000; None; None; US
+76.97.203.66; c-76-97-203-66.hsd1.ga.comcast.net; 34.2281,-84.1780; Cumming; Georgia; US
+96.255.7.241; pool-96-255-7-241.washdc.fios.verizon.net; 38.9827,-77.3401; Reston; Virginia; US
+75.129.145.80; 75-129-145-80.dhcp.fdul.wi.charter.com; 43.4588,-88.8052; Beaver Dam; Wisconsin; US
+72.177.2.30; cpe-72-177-2-30.austin.res.rr.com; 30.4000,-97.7528; Austin; Texas; US
+89.133.242.148; catv-89-133-242-148.catv.broadband.hu; 47.5000,19.0833; Budapest; Budapest; HU
+50.4.231.21; d4-50-21-231.evv.wideopenwest.com; 40.1832,-82.9954; Lewis Center; Ohio; US
+66.73.102.234; 66.73.102.234; 42.3684,-83.3720; Livonia; Michigan; US
+98.122.125.75; cpe-098-122-125-075.sc.res.rr.com; 33.6985,-78.9032; Myrtle Beach; South Carolina; US
+129.79.35.119; nibbler.dlib.indiana.edu; 39.2499,-86.4555; Bloomington; Indiana; US
+204.184.66.245; bear.k12.mo.us; 38.8817,-92.4020; Columbia; Missouri; US
+24.246.141.63; 24.246.141.63; 35.3621,-82.5082; Hendersonville; North Carolina; US
+75.61.71.90; adsl-75-61-71-90.dsl.pltn13.sbcglobal.net; 37.7749,-122.4194; San Francisco; California; US
+109.76.101.207; 109.76.101.207; 53.0000,-8.0000; None; None; IE
+67.37.103.66; 67.37.103.66; 43.4588,-88.8052; Beaver Dam; Wisconsin; US
+70.190.61.161; ip70-190-61-161.ph.ph.cox.net; 33.3776,-112.3874; Goodyear; Arizona; US
+68.117.29.206; 68-117-29-206.static.fdul.wi.charter.com; 44.7916,-87.4670; Sturgeon Bay; Wisconsin; US
+66.188.108.74; 66-188-108-74.static.ftbg.wi.charter.com; 42.7130,-88.5429; Elkhorn; Wisconsin; US
+64.207.252.254; 64.207.252.254; 36.0990,-95.8891; Tulsa; Oklahoma; US
+66.249.69.248; crawl-66-249-69-248.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+167.73.110.8; 167.73.110.8; 42.9634,-85.6681; Grand Rapids; Michigan; US
+75.22.100.101; adsl-75-22-100-101.dsl.bumttx.sbcglobal.net; 40.0989,-83.1615; Dublin; Ohio; US
+192.168.1.8; srinivasans-mbp.home; ; None; None; None
+192.168.1.2; seshanfmilyipad.home; ; None; None; None
+142.177.179.190; sydnns0114w-142177179190.dhcp-dynamic.fibreop.ns.bellaliant.net; 46.2397,-60.0998; North Sydney; Nova Scotia; CA
+76.100.16.82; c-76-100-16-82.hsd1.va.comcast.net; 38.8115,-77.1285; Alexandria; Virginia; US
+76.123.108.2; c-76-123-108-2.hsd1.fl.comcast.net; 30.2793,-81.5851; Jacksonville; Florida; US
+75.51.192.55; 75-51-192-55.lightspeed.sbndin.sbcglobal.net; 41.7350,-86.1229; Granger; Indiana; US
+23.243.255.216; cpe-23-243-255-216.socal.res.rr.com; 34.3667,-118.4775; Newhall; California; US
+192.168.1.10; ashas-iphone.home; ; None; None; None
+166.137.244.35; mobile-166-137-244-035.mycingular.net; 38.0000,-97.0000; None; None; US
+207.46.13.0; msnbot-207-46-13-0.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+207.46.13.48; msnbot-207-46-13-48.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+157.55.39.9; msnbot-157-55-39-9.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+207.46.13.106; msnbot-207-46-13-106.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+157.55.39.7; msnbot-157-55-39-7.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+66.249.65.54; crawl-66-249-65-54.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+66.249.65.148; crawl-66-249-65-148.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+66.249.65.62; crawl-66-249-65-62.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+107.1.175.242; 107-1-175-242-ip-static.hfc.comcastbusiness.net; 42.0562,-87.7011; Evanston; Illinois; US
+23.235.227.106; 23.235.227.106; 33.4357,-111.9171; Tempe; Arizona; US
+217.149.202.58; 58-202.avo-nm.internl.net; 52.5000,5.7500; None; None; NL
+77.3.95.246; krlh-4d035ff6.pool.mediaways.net; 48.4765,7.9438; Offenburg; Baden-Wurttemberg; DE
+192.107.141.133; t116.nat.austinisd.org; 30.3660,-97.6437; Austin; Texas; US
+216.125.238.147; 216.125.238.147; 40.5282,-88.9801; Normal; Illinois; US
+108.64.97.86; 108-64-97-86.lightspeed.gnvlsc.sbcglobal.net; 35.0768,-82.4361; Travelers Rest; South Carolina; US
+108.48.66.50; pool-108-48-66-50.washdc.fios.verizon.net; 38.6911,-77.2060; Lorton; Virginia; US
+165.161.7.27; bc0.palmbeach.k12.fl.us; 26.6633,-80.1284; West Palm Beach; Florida; US
+74.99.129.94; pool-74-99-129-94.hrbgpa.east.verizon.net; 40.1750,-76.3078; Lititz; Pennsylvania; US
+130.164.62.76; 130.164.62.76; 30.4000,-97.7528; Austin; Texas; US
+165.204.84.1; 165.204.84.1; 30.2672,-97.7431; Austin; Texas; US
+192.55.55.41; 192.55.55.41; 37.3541,-121.9552; Santa Clara; California; US
+192.55.54.40; 192.55.54.40; 37.3541,-121.9552; Santa Clara; California; US
+192.55.54.39; fmdmzpr04-ext.fm.intel.com; 37.3541,-121.9552; Santa Clara; California; US
+75.67.242.100; c-75-67-242-100.hsd1.nh.comcast.net; 42.7618,-71.4119; Hudson; New Hampshire; US
+216.57.139.162; 216.57.139.162; 42.4473,-71.2245; Lexington; Massachusetts; US
+66.249.67.46; crawl-66-249-67-46.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+66.249.67.54; crawl-66-249-67-54.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+84.136.172.231; p5488ace7.dip0.t-ipconnect.de; 52.3833,7.7167; Recke; Nordrhein-Westfalen; DE
+207.170.206.82; feinet.feico.com; 45.5848,-122.9117; Hillsboro; Oregon; US
+70.97.216.114; 70.97.216.114; 44.7578,-93.3636; Savage; Minnesota; US
+67.61.49.132; 67-61-49-132.cpe.cableone.net; 43.6121,-116.3915; Meridian; Idaho; US
+92.242.140.21; cpe-76-92-66-45.ma.res.rr.com; 51.5000,-0.1300; None; None; GB
+66.249.67.62; crawl-66-249-67-62.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+24.152.166.116; user-0c9h9jk.cable.mindspring.com; 32.9954,-117.0753; San Diego; California; US
+66.249.67.1; crawl-66-249-67-1.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+192.55.54.37; fmdmzpr02-ext.fm.intel.com; 37.3541,-121.9552; Santa Clara; California; US
+167.222.220.6; 167.222.220.6; 40.4344,-80.0248; Pittsburgh; Pennsylvania; US
+66.249.69.54; crawl-66-249-69-54.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+192.55.55.36; fmdmzpr01-ext.fm.intel.com; 37.3541,-121.9552; Santa Clara; California; US
+134.134.137.74; jfdmzpr05-ext.jf.intel.com; 45.5234,-122.6762; None; Oregon; US
+134.134.139.76; 134.134.139.76; 37.3541,-121.9552; Santa Clara; California; US
+192.55.54.42; 192.55.54.42; 37.3541,-121.9552; Santa Clara; California; US
+216.246.140.252; d-216-246-140-252.cpe.metrocast.net; 43.3281,-70.9384; Rochester; New Hampshire; US
+54.227.49.251; ec2-54-227-49-251.compute-1.amazonaws.com; 39.0437,-77.4875; Ashburn; Virginia; US
+185.20.4.220; sft088.sysms.net; 51.5000,-0.1300; None; None; GB
+173.252.74.118; 173.252.74.118; 40.7212,-80.9480; Kensington; Ohio; US
+50.17.151.94; ec2-50-17-151-94.compute-1.amazonaws.com; 39.0437,-77.4875; Ashburn; Virginia; US
+185.20.4.143; sft042.sysms.net; 51.5000,-0.1300; None; None; GB
+65.52.242.216; 65.52.242.216; 47.6801,-122.1206; Redmond; Washington; US
+74.6.254.137; h077.crawl.yahoo.net; 37.4249,-122.0074; Sunnyvale; California; US
+54.176.232.239; ec2-54-176-232-239.us-west-1.compute.amazonaws.com; 37.7749,-122.4194; San Francisco; California; US
+50.18.102.132; ec2-50-18-102-132.us-west-1.compute.amazonaws.com; 37.3394,-121.8950; San Jose; California; US
+199.16.156.124; 199.16.156.124; 37.7697,-122.3933; San Francisco; California; US
+199.16.156.125; 199.16.156.125; 37.7697,-122.3933; San Francisco; California; US
+94.23.40.23; ns369020.ip-94-23-40.eu; 48.8600,2.3500; None; None; FR
+54.196.191.150; ec2-54-196-191-150.compute-1.amazonaws.com; 39.0437,-77.4875; Ashburn; Virginia; US
+78.46.85.133; static.133.85.46.78.clients.your-server.de; 51.0000,9.0000; None; None; DE
+74.112.131.242; cc002.topsy.com; 36.9512,-121.7240; Watsonville; California; US
+37.59.16.155; ns231140.ovh.net; 48.8600,2.3500; None; None; FR
+71.191.57.189; pool-71-191-57-189.washdc.fios.verizon.net; 39.0138,-77.3987; Sterling; Virginia; US
+23.96.208.137; 23.96.208.137; 47.6801,-122.1206; Redmond; Washington; US
+12.238.61.12; 12.238.61.12; 38.0000,-97.0000; None; None; US
+63.155.39.132; 63-155-39-132.bois.qwest.net; 43.6135,-116.2035; Boise; Idaho; US
+66.249.64.78; crawl-66-249-64-78.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+86.4.163.48; cpc6-sotn8-2-0-cust47.15-1.cable.virginm.net; 51.0741,-1.3360; Winchester; Hampshire; GB
+50.17.69.56; ec2-50-17-69-56.compute-1.amazonaws.com; 39.0437,-77.4875; Ashburn; Virginia; US
+146.90.55.159; 159.55.90.146.dyn.plus.net; 51.5000,-0.1300; None; None; GB
+70.211.67.143; 143.sub-70-211-67.myvzw.com; 38.5816,-121.4944; Sacramento; California; US
+184.13.161.43; 184-13-161-43.dr02.clbg.wv.frontiernet.net; 39.2844,-80.2307; Bridgeport; West Virginia; US
+96.247.147.16; pool-96-247-147-16.altnpa.east.verizon.net; 40.3267,-78.9220; Johnstown; Pennsylvania; US
+67.240.102.167; cpe-67-240-102-167.nycap.res.rr.com; 43.0056,-73.8628; Ballston Spa; New York; US
+67.163.208.207; c-67-163-208-207.hsd1.pa.comcast.net; 40.4406,-79.9959; Pittsburgh; Pennsylvania; US
+75.173.182.129; 75-173-182-129.dvnp.qwest.net; 41.4046,-91.0321; Muscatine; Iowa; US
+68.10.255.54; ip68-10-255-54.hr.hr.cox.net; 36.7028,-76.3729; Chesapeake; Virginia; US
+69.164.231.198; 69.164.231.198; 39.7728,-79.4596; Markleysburg; Pennsylvania; US
+72.23.91.184; dynamic-acs-72-23-91-184.zoominternet.net; 40.6990,-80.0334; Mars; Pennsylvania; US
+54.237.43.151; ec2-54-237-43-151.compute-1.amazonaws.com; 39.0437,-77.4875; Ashburn; Virginia; US
+192.104.24.223; 192.104.24.223; 40.2713,-80.1702; Canonsburg; Pennsylvania; US
+96.247.151.163; pool-96-247-151-163.altnpa.east.verizon.net; 40.3267,-78.9220; Johnstown; Pennsylvania; US
+67.171.86.222; c-67-171-86-222.hsd1.pa.comcast.net; 40.1582,-80.2553; Washington; Pennsylvania; US
+66.219.210.176; 66.219.210.176.provo.dynamic.broadweavenetworks.net; 40.6092,-111.8819; Midvale; Utah; US
+67.165.35.234; c-67-165-35-234.hsd1.pa.comcast.net; 40.5465,-80.0525; Pittsburgh; Pennsylvania; US
+75.173.176.79; 75-173-176-79.dvnp.qwest.net; 41.5236,-90.5776; Davenport; Iowa; US
+70.31.15.44; bas5-toronto47-1176440620.dsl.bell.ca; 43.7797,-79.4156; North York; Ontario; CA
+67.172.25.238; c-67-172-25-238.hsd1.pa.comcast.net; 40.5728,-79.7248; New Kensington; Pennsylvania; US
+66.249.79.54; crawl-66-249-79-54.googlebot.com; 37.4192,-122.0574; Mountain View; California; US
+75.185.166.254; cpe-75-185-166-254.neo.res.rr.com; 41.3152,-81.4405; Twinsburg; Ohio; US
+46.236.24.51; ded3123.sysms.net; 51.5000,-0.1300; None; None; GB
+174.250.112.49; 49.sub-174-250-112.myvzw.com; 40.1751,-79.9284; Monongahela; Pennsylvania; US
+71.206.204.254; c-71-206-204-254.hsd1.pa.comcast.net; 40.5728,-79.7248; New Kensington; Pennsylvania; US
+70.56.15.55; 70-56-15-55.desm.qwest.net; 41.6267,-93.7122; Urbandale; Iowa; US
+72.234.64.18; udp240631uds.hawaiiantel.net; 19.9305,-155.7967; Waikoloa; Hawaii; US
+24.154.254.12; static-acs-24-154-254-12.zoominternet.net; 40.7097,-80.1049; Cranberry Twp; Pennsylvania; US
+66.87.73.80; 66-87-73-80.pools.spcsdns.net; 38.0000,-97.0000; None; None; US
+166.137.244.34; mobile-166-137-244-034.mycingular.net; 38.0000,-97.0000; None; None; US
+107.222.125.249; 107-222-125-249.lightspeed.sndgca.sbcglobal.net; 32.9656,-117.1270; San Diego; California; US
+80.245.161.150; mail.garifallou.gr; 37.9833,23.7333; Athens; Attiki; GR
+70.208.140.121; 121.sub-70-208-140.myvzw.com; 37.6660,-77.5064; Glen Allen; Virginia; US
+209.180.41.253; 209-180-41-253.dia.static.qwest.net; 42.0300,-93.5905; Ames; Iowa; US
+174.55.180.120; c-174-55-180-120.hsd1.pa.comcast.net; 40.0475,-76.4844; Columbia; Pennsylvania; US
+74.99.138.192; pool-74-99-138-192.hrbgpa.east.verizon.net; 40.3915,-76.4381; Lebanon; Pennsylvania; US
+140.172.25.8; nat.nssl.noaa.gov; 39.9721,-105.2493; Boulder; Colorado; US
+12.151.251.178; 12.151.251.178; 42.1275,-87.8290; Northbrook; Illinois; US
+173.163.15.82; 173-163-15-82-cpennsylvania.hfc.comcastbusiness.net; 40.0754,-76.3189; Lancaster; Pennsylvania; US
+66.249.83.87; google-proxy-66-249-83-87.google.com; 37.4192,-122.0574; Mountain View; California; US
+70.197.70.226; 226.sub-70-197-70.myvzw.com; 34.0522,-118.2437; Los Angeles; California; US
+76.4.151.231; fl-76-4-151-231.dhcp.embarqhsd.net; 28.7313,-81.5158; Apopka; Florida; US
+99.177.70.213; 99-177-70-213.lightspeed.wpbhfl.sbcglobal.net; 26.6203,-80.0592; Lake Worth; Florida; US
+50.89.221.102; 50-89-221-102.res.bhn.net; 28.1424,-80.7108; Melbourne; Florida; US
+68.7.190.175; ip68-7-190-175.sd.sd.cox.net; 32.8405,-116.8797; El Cajon; California; US
+173.76.76.170; pool-173-76-76-170.bstnma.fios.verizon.net; 42.2451,-71.1840; Dedham; Massachusetts; US
+50.148.209.128; c-50-148-209-128.hsd1.mn.comcast.net; 44.8046,-93.1371; Saint Paul; Minnesota; US
+24.45.38.64; ool-182d2640.dyn.optonline.net; 40.6501,-73.9496; Brooklyn; New York; US
+50.205.70.164; 50-205-70-164-static.hfc.comcastbusiness.net; 42.6241,-71.3389; Lowell; Massachusetts; US
+75.151.253.162; 75-151-253-162-pennsylvania.hfc.comcastbusiness.net; 40.4169,-79.8235; Turtle Creek; Pennsylvania; US
+205.225.215.254; 205.225.215.254; 38.6262,-121.3248; Carmichael; California; US
+150.70.97.124; 150-70-97-124.trendmicro.com; 35.6900,139.6900; None; None; JP
+198.30.75.22; 75-22.cscc.edu; 39.9427,-82.8868; Columbus; Ohio; US
+157.182.105.1; hsc-user.hsc.wvu.edu; 39.6456,-79.9433; Morgantown; West Virginia; US
+66.249.67.156; crawl-66-249-67-156.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+24.53.81.110; dhcp-0-19-b9-55-dd-c1.cpe.xcountry.tv; 45.0917,-64.3599; Wolfville; Nova Scotia; CA
+108.75.97.87; adsl-108-75-97-87.dsl.okcyok.sbcglobal.net; 35.8590,-97.4340; Guthrie; Oklahoma; US
+50.151.45.141; c-50-151-45-141.hsd1.il.comcast.net; 40.4661,-88.9034; Bloomington; Illinois; US
+108.32.76.10; pool-108-32-76-10.pitbpa.fios.verizon.net; 40.5465,-80.0525; Pittsburgh; Pennsylvania; US
+157.55.39.248; msnbot-157-55-39-248.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+68.7.92.144; ip68-7-92-144.sd.sd.cox.net; 32.8405,-116.8797; El Cajon; California; US
+207.46.13.100; msnbot-207-46-13-100.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+46.236.24.52; ded3124.sysms.net; 51.5000,-0.1300; None; None; GB
+67.149.183.42; d149-67-42-183.col.wideopenwest.com; 40.1176,-83.1265; Dublin; Ohio; US
+207.46.13.129; msnbot-207-46-13-129.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+66.249.79.46; crawl-66-249-79-46.googlebot.com; 37.4192,-122.0574; Mountain View; California; US
+72.12.201.2; nat.wl.k12.in.us; 40.4763,-86.9571; West Lafayette; Indiana; US
+46.236.24.54; ded3126.sysms.net; 51.5000,-0.1300; None; None; GB
+95.145.46.157; 95.145.46.157; 51.2737,-1.0885; Basingstoke; Hampshire; GB
+54.237.176.214; ec2-54-237-176-214.compute-1.amazonaws.com; 39.0437,-77.4875; Ashburn; Virginia; US
+198.27.82.203; ns502522.ip-198-27-82.net; 45.5078,-73.5804; Montréal; Quebec; CA
+74.112.131.245; cc005.topsy.com; 36.9512,-121.7240; Watsonville; California; US
+54.238.238.39; ec2-54-238-238-39.ap-northeast-1.compute.amazonaws.com; 35.6850,139.7514; Tokyo; Tokyo; JP
+23.253.162.123; 23.253.162.123; 29.4889,-98.3987; San Antonio; Texas; US
+154.43.0.9; 154.43.0.9; 38.0000,-97.0000; None; None; US
+65.52.244.38; 65.52.244.38; 47.6801,-122.1206; Redmond; Washington; US
+54.249.153.102; ec2-54-249-153-102.ap-northeast-1.compute.amazonaws.com; 35.6850,139.7514; Tokyo; Tokyo; JP
+74.112.131.241; cc001.topsy.com; 36.9512,-121.7240; Watsonville; California; US
+23.253.211.219; 23.253.211.219; 29.4889,-98.3987; San Antonio; Texas; US
+37.59.16.158; ns231143.ovh.net; 48.8600,2.3500; None; None; FR
+150.70.97.127; 150-70-97-127.trendmicro.com; 35.6900,139.6900; None; None; JP
+204.236.235.245; ec2-204-236-235-245.compute-1.amazonaws.com; 39.0437,-77.4875; Ashburn; Virginia; US
+66.37.51.4; 66.37.51.4.nauticom.net; 39.4885,-88.3596; Mattoon; Illinois; US
+195.154.233.224; 195-154-233-224.rev.poneytelecom.eu; 48.8600,2.3500; None; None; FR
+54.80.210.31; ec2-54-80-210-31.compute-1.amazonaws.com; 39.0437,-77.4875; Ashburn; Virginia; US
+84.136.166.30; p5488a61e.dip0.t-ipconnect.de; 52.2333,8.1667; Bissendorf; Niedersachsen; DE
+166.137.101.145; akrmspsrvz7ts103-dmz.mycingular.net; 42.4645,-83.3763; None; Michigan; US
+96.2.80.133; host-133-80-2-96.midco.net; 43.5190,-96.7322; Sioux Falls; South Dakota; US
+54.167.114.173; ec2-54-167-114-173.compute-1.amazonaws.com; 39.0437,-77.4875; Ashburn; Virginia; US
+148.87.67.202; inet-rmmc07-o.oracle.com; 37.5331,-122.2471; Redwood City; California; US
+198.30.247.184; 198.30.247.184; 40.2827,-83.0559; Delaware; Ohio; US
+198.60.169.252; 198.60.169.252; 33.4148,-111.9093; Tempe; Arizona; US
+96.29.8.110; cpe-96-29-8-110.swo.res.rr.com; 38.2582,-85.4526; Louisville; Kentucky; US
+128.2.197.220; nrec-014737.rec.ri.cmu.edu; 40.4439,-79.9561; Pittsburgh; Pennsylvania; US
+96.247.155.196; pool-96-247-155-196.altnpa.east.verizon.net; 41.8737,-77.4508; Westfield; Pennsylvania; US
+66.195.109.254; 66.195.109.254; 29.7633,-95.3633; Houston; Texas; US
+174.126.192.59; 174-126-192-59.cpe.cableone.net; 46.8543,-96.8284; Fargo; North Dakota; US
+172.3.85.165; adsl-172-3-85-165.dsl.stl2mo.sbcglobal.net; 38.7839,-90.4812; Saint Charles; Missouri; US
+50.121.213.11; 50-121-213-11.drr03.clbg.wv.frontiernet.net; 39.3939,-80.2939; Shinnston; West Virginia; US
+66.249.64.82; crawl-66-249-64-82.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+71.112.191.17; pool-71-112-191-17.pitbpa.fios.verizon.net; 40.4681,-79.9114; Pittsburgh; Pennsylvania; US
+173.252.114.118; 173.252.114.118; 37.4590,-122.1781; Menlo Park; California; US
+173.252.114.113; 173.252.114.113; 37.4590,-122.1781; Menlo Park; California; US
+84.106.106.170; 546a6aaa.cm-12-3b.dynamic.ziggo.nl; 52.0833,4.3000; Den Haag; Zuid-Holland; NL
+70.198.198.58; 58.sub-70-198-198.myvzw.com; 40.3010,-79.9242; Clairton; Pennsylvania; US
+74.40.120.91; 74.40.120.91; 40.0582,-80.6362; Wheeling; West Virginia; US
+108.32.25.192; pool-108-32-25-192.pitbpa.east.verizon.net; 40.4406,-79.9959; Pittsburgh; Pennsylvania; US
+184.13.138.114; 184.13.138.114; 38.9143,-79.8407; Elkins; West Virginia; US
+150.70.97.118; 150-70-97-118.trendmicro.com; 35.6900,139.6900; None; None; JP
+71.84.216.198; 71-84-216-198.static.rvsd.ca.charter.com; 34.1839,-117.0835; Running Springs; California; US
+162.206.18.145; 162-206-18-145.lightspeed.dybhfl.sbcglobal.net; 28.0170,-80.6736; Palm Bay; Florida; US
+72.67.151.107; pool-72-67-151-107.lsanca.fios.verizon.net; 33.8743,-118.3721; Redondo Beach; California; US
+66.91.12.153; cpe-66-91-12-153.hawaii.res.rr.com; 20.6989,-156.4430; Kihei; Hawaii; US
+54.80.162.5; ec2-54-80-162-5.compute-1.amazonaws.com; 39.0437,-77.4875; Ashburn; Virginia; US
+128.4.20.193; roaming-4-20-193.host.udel.edu; 39.5645,-75.5970; Newark; Delaware; US
+192.168.1.14; hybrid.home; ; None; None; None
+142.177.81.10; 142.177.81.10; 44.6500,-63.6000; Halifax; Nova Scotia; CA
+151.201.136.162; static-151-201-136-162.pitt.east.verizon.net; 40.4426,-79.9770; Pittsburgh; Pennsylvania; US
+100.40.4.138; static-100-40-4-138.prvdri.fios.verizon.net; 41.8195,-71.4107; Providence; Rhode Island; US
+69.161.253.15; 69.161.253.15; 39.6456,-79.9433; Morgantown; West Virginia; US
+70.211.72.245; 245.sub-70-211-72.myvzw.com; 38.5816,-121.4944; Sacramento; California; US
+52.129.8.51; proxy-ash-51.dupont.com; 39.5645,-75.5970; Wilmington; Delaware; US
+173.57.51.12; pool-173-57-51-12.dllstx.fios.verizon.net; 33.0952,-96.7524; Plano; Texas; US
+100.43.91.12; spider-100-43-91-12.yandex.com; 37.4135,-122.1312; Palo Alto; California; US
+157.55.39.98; msnbot-157-55-39-98.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+108.195.41.242; 108-195-41-242.lightspeed.stlsmo.sbcglobal.net; 37.7721,-90.3672; Farmington; Missouri; US
+37.58.100.137; 37.58.100.137-static.reverse.softlayer.com; 52.5000,5.7500; None; None; NL
+98.110.26.191; pool-98-110-26-191.cmdnnj.fios.verizon.net; 40.3305,-74.4179; Monroe Township; New Jersey; US
+71.238.0.101; c-71-238-0-101.hsd1.mi.comcast.net; 42.2856,-83.4858; Canton; Michigan; US
+66.249.64.86; crawl-66-249-64-86.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+96.28.154.115; cpe-96-28-154-115.swo.res.rr.com; 38.3439,-85.4299; Crestwood; Kentucky; US
+173.11.28.22; 173-11-28-22-oregon.hfc.comcastbusiness.net; 45.5234,-122.6762; Portland; Oregon; US
+68.118.231.36; 68-118-231-36.dhcp.oxfr.ma.charter.com; 42.3386,-71.8531; Holden; Massachusetts; US
+24.110.114.6; user-0c6ssg6.cable.mindspring.com; 28.4913,-81.4097; Orlando; Florida; US
+71.235.80.160; c-71-235-80-160.hsd1.ct.comcast.net; 41.3154,-72.8602; New Haven; Connecticut; US
+108.32.29.93; pool-108-32-29-93.pitbpa.east.verizon.net; 40.4406,-79.9959; Pittsburgh; Pennsylvania; US
+71.179.111.53; pool-71-179-111-53.bltmmd.fios.verizon.net; 39.0735,-76.5654; Severna Park; Maryland; US
+207.46.13.78; msnbot-207-46-13-78.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+184.13.140.118; 184.13.140.118; 40.2438,-80.5983; Wellsburg; West Virginia; US
+184.100.227.206; 184-100-227-206.ptld.qwest.net; 45.6387,-122.6615; Vancouver; Washington; US
+66.220.156.117; 66.220.156.117; 40.7212,-80.9480; Kensington; Ohio; US
+66.220.156.114; 66.220.156.114; 40.7212,-80.9480; Kensington; Ohio; US
+66.220.156.115; 66.220.156.115; 40.7212,-80.9480; Kensington; Ohio; US
+95.114.8.68; krlh-5f720844.pool.mediaways.net; 49.1203,8.5990; Bruchsal; Baden-Wurttemberg; DE
+75.164.239.92; 75-164-239-92.ptld.qwest.net; 45.6387,-122.6615; Vancouver; Washington; US
+66.220.156.116; 66.220.156.116; 40.7212,-80.9480; Kensington; Ohio; US
+209.112.214.78; 209-112-214-78-rb1.nwc.dsl.dynamic.acsalaska.net; 60.9026,-148.9191; Girdwood; Alaska; US
+173.252.112.112; 173.252.112.112; 37.4590,-122.1781; Menlo Park; California; US
+108.248.112.134; 108-248-112-134.lightspeed.irvnca.sbcglobal.net; 34.0686,-118.0276; El Monte; California; US
+166.137.101.164; akrmspsrvz7ts422-dmz.mycingular.net; 42.4645,-83.3763; None; Michigan; US
+205.158.58.41; 205.158.58.41.ptr.us.xo.net; 38.0000,-97.0000; None; None; US
+96.58.59.8; 96.58.59.8; 28.2059,-82.3201; Zephyrhills; Florida; US
+99.113.208.155; 99-113-208-155.lightspeed.irvnca.sbcglobal.net; 34.0801,-118.0337; El Monte; California; US
+198.30.252.2; 198.30.252.2; 40.0853,-82.9752; Columbus; Ohio; US
+173.252.112.113; 173.252.112.113; 37.4590,-122.1781; Menlo Park; California; US
+46.236.24.53; ded3125.sysms.net; 51.5000,-0.1300; None; None; GB
+50.121.72.15; 50.121.72.15; 41.1306,-85.1289; Fort Wayne; Indiana; US
+107.20.248.254; ec2-107-20-248-254.compute-1.amazonaws.com; 39.0437,-77.4875; Ashburn; Virginia; US
+31.13.97.115; 31.13.97.115; 53.0000,-8.0000; None; None; IE
+31.13.97.119; 31.13.97.119; 53.0000,-8.0000; None; None; IE
+150.70.97.119; 150-70-97-119.trendmicro.com; 35.6900,139.6900; None; None; JP
+173.36.240.174; sjc12-dmz-wsa-9.cisco.com; 37.4250,-121.9460; San Jose; California; US
+71.195.168.201; c-71-195-168-201.hsd1.ca.comcast.net; 36.8874,-119.7697; Fresno; California; US
+74.248.44.90; adsl-74-248-44-90.pfn.bellsouth.net; 30.6344,-85.5948; Chipley; Florida; US
+87.119.165.174; 87-119-165-174.tll.elisa.ee; 59.0000,26.0000; None; None; EE
+132.3.45.79; lackland-pxyw2e.afnoc.af.mil; 29.4886,-98.2735; Converse; Texas; US
+144.15.255.227; nat01.medtronic.com; 45.0724,-93.1874; Saint Paul; Minnesota; US
+75.144.69.50; 75-144-69-50-michigan.hfc.comcastbusiness.net; 42.2776,-83.7409; Ann Arbor; Michigan; US
+174.236.227.194; 194.sub-174-236-227.myvzw.com; 38.8487,-76.9239; Suitland; Maryland; US
+170.97.167.69; xpsh2104.hud.gov; 38.8933,-77.0146; Washington; District of Columbia; US
+68.114.104.6; 68-114-104-6.dhcp.slid.la.charter.com; 30.2712,-89.7705; Slidell; Louisiana; US
+184.169.203.101; ec2-184-169-203-101.us-west-1.compute.amazonaws.com; 37.3394,-121.8950; San Jose; California; US
+23.91.190.97; host-23-91-190-97.dyn.295.ca; 43.6667,-79.4167; Toronto; Ontario; CA
+37.58.100.187; 37.58.100.187-static.reverse.softlayer.com; 52.5000,5.7500; None; None; NL
+70.199.0.181; 181.sub-70-199-0.myvzw.com; 40.6215,-79.1525; Indiana; Pennsylvania; US
+95.128.90.194; cust-95-128-90-194.breedbanddelft.nl; 52.0186,4.3782; Delft; Zuid-Holland; NL
+72.37.244.140; 1733ob.scansafe.net; 45.5222,-122.8593; Beaverton; Oregon; US
+50.203.3.5; 50-203-3-5-static.hfc.comcastbusiness.net; 42.4255,-83.2533; Detroit; Michigan; US
+207.210.40.17; 207.210.40.17; 43.2566,-79.8683; Hamilton; Ontario; CA
+24.129.51.242; c-24-129-51-242.hsd1.fl.comcast.net; 30.3607,-81.4262; Atlantic Beach; Florida; US
+76.99.84.7; c-76-99-84-7.hsd1.nj.comcast.net; 40.1692,-75.6019; Spring City; Pennsylvania; US
+98.118.186.177; pool-98-118-186-177.bflony.fios.verizon.net; 42.9864,-78.7279; Buffalo; New York; US
+72.52.4.91; 14.140.121.226.static-pune-vsnl.net.in; 26.0222,-80.1496; Hollywood; Florida; US
+74.99.134.149; pool-74-99-134-149.hrbgpa.east.verizon.net; 40.2728,-76.8895; Harrisburg; Pennsylvania; US
+72.12.202.194; tscasa.tsc.k12.in.us; 40.4763,-86.9571; West Lafayette; Indiana; US
+69.171.237.117; 69.171.237.117; 40.1812,-92.6204; Kirksville; Missouri; US
+207.46.13.121; msnbot-207-46-13-121.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+157.55.39.145; msnbot-157-55-39-145.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+37.58.100.84; 37.58.100.84-static.reverse.softlayer.com; 52.5000,5.7500; None; None; NL
+174.27.195.73; 174-27-195-73.slkc.qwest.net; 40.7608,-111.8911; Salt Lake City; Utah; US
+157.55.39.196; msnbot-157-55-39-196.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+157.55.39.54; msnbot-157-55-39-54.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+73.53.114.183; c-73-53-114-183.hsd1.wa.comcast.net; 47.5595,-122.0092; Issaquah; Washington; US
+130.70.0.34; rails-nat.louisiana.edu; 30.1689,-92.0599; Lafayette; Louisiana; US
+67.20.249.111; dhcp-pa-67-20-249-111.consolidated.net; 40.7097,-80.1049; Cranberry Twp; Pennsylvania; US
+74.199.119.71; d199-74-71-119.clv.wideopenwest.com; 40.0345,-82.8695; Columbus; Ohio; US
+74.110.227.147; pool-74-110-227-147.rcmdva.fios.verizon.net; 37.5160,-77.5005; Richmond; Virginia; US
+65.130.189.160; 65-130-189-160.slkc.qwest.net; 40.7608,-111.8911; Salt Lake City; Utah; US
+99.7.254.54; 99-7-254-54.lightspeed.clmboh.sbcglobal.net; 40.1018,-83.0730; Columbus; Ohio; US
+50.160.135.43; c-50-160-135-43.hsd1.ga.comcast.net; 33.8274,-84.3244; Atlanta; Georgia; US
+87.212.139.197; ip197-139-212-87.adsl2.static.versatel.nl; 52.0200,5.0431; Ijsselstein; Utrecht; NL
+96.252.135.12; pool-96-252-135-12.tampfl.fios.verizon.net; 27.9475,-81.9204; Lakeland; Florida; US
+31.13.97.113; 31.13.97.113; 53.0000,-8.0000; None; None; IE
+50.149.167.217; c-50-149-167-217.hsd1.tn.comcast.net; 36.2148,-84.1550; Lake City; Tennessee; US
+209.147.118.24; 209.147.118.24; 47.2626,-122.4413; Tacoma; Washington; US
+108.20.217.238; pool-108-20-217-238.bstnma.fios.verizon.net; 42.4574,-71.2178; Lexington; Massachusetts; US
+71.59.27.45; 71.59.27.45; 34.0408,-84.1665; Duluth; Georgia; US
+50.53.63.81; static-50-53-63-81.bvtn.or.frontiernet.net; 45.5534,-122.8192; Portland; Oregon; US
+173.21.45.27; 173-21-45-27.client.mchsi.com; 41.4094,-85.7352; Syracuse; Indiana; US
+72.37.248.28; 1764ob.scansafe.net; 37.3394,-121.8950; San Jose; California; US
+76.19.154.41; c-76-19-154-41.hsd1.ma.comcast.net; 41.8428,-71.2455; Rehoboth; Massachusetts; US
+72.37.248.37; 1773ob.scansafe.net; 37.3394,-121.8950; San Jose; California; US
+66.249.69.38; crawl-66-249-69-38.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+173.206.205.198; dsl-173-206-205-198.tor.primus.ca; 43.6667,-79.4167; Toronto; Ontario; CA
+76.115.110.25; c-76-115-110-25.hsd1.or.comcast.net; 45.4470,-122.7668; Portland; Oregon; US
+75.53.219.130; adsl-75-53-219-130.dsl.hstntx.sbcglobal.net; 30.1598,-95.7250; Magnolia; Texas; US
+109.78.53.59; 109.78.53.59; 53.0000,-8.0000; None; None; IE
+64.56.94.67; 64.56.94.67; 25.6663,-80.2924; Miami; Florida; US
+77.3.112.61; krlh-4d03703d.pool.mediaways.net; 51.0000,9.0000; None; None; DE
+108.84.238.231; 108-84-238-231.lightspeed.frokca.sbcglobal.net; 37.6783,-120.9501; Modesto; California; US
+50.53.47.49; static-50-53-47-49.bvtn.or.frontiernet.net; 45.5534,-122.8192; Portland; Oregon; US
+134.134.139.77; 134.134.139.77; 37.3541,-121.9552; Santa Clara; California; US
+50.148.124.41; c-50-148-124-41.hsd1.il.comcast.net; 40.0583,-88.2573; Savoy; Illinois; US
+208.100.40.45; ip45.208-100-40.static.steadfastdns.net; 41.8745,-87.6503; Chicago; Illinois; US
+204.116.241.237; 204.116.241.237; 32.9183,-80.6879; Walterboro; South Carolina; US
+174.101.137.185; cpe-174-101-137-185.cinci.res.rr.com; 39.1659,-84.2295; Milford; Ohio; US
+198.189.14.2; yosemite.yosemite.edu; 37.6391,-120.9969; Modesto; California; US
+75.164.205.19; 75-164-205-19.ptld.qwest.net; 45.5234,-122.6762; Portland; Oregon; US
+66.220.156.118; 66.220.156.118; 40.7212,-80.9480; Kensington; Ohio; US
+96.35.25.103; 96-35-25-103.dhcp.stls.mo.charter.com; 38.9455,-90.1282; Alton; Illinois; US
+66.249.79.62; crawl-66-249-79-62.googlebot.com; 37.4192,-122.0574; Mountain View; California; US
+107.201.105.149; 107-201-105-149.lightspeed.sntcca.sbcglobal.net; 37.1931,-121.8364; San Jose; California; US
+50.108.77.118; 50-108-77-118.adr01.mskg.mi.frontiernet.net; 38.0000,-97.0000; None; None; US
+216.228.112.21; searspoint.nvidia.com; 37.3541,-121.9552; Santa Clara; California; US
+216.175.19.118; 216.175.19.118; 41.4638,-90.1512; Geneseo; Illinois; US
+172.10.42.140; 172-10-42-140.lightspeed.austtx.sbcglobal.net; 30.3784,-97.8941; Austin; Texas; US
+84.80.43.229; ip54502be5.adsl-surfen.hetnet.nl; 52.0450,4.3958; Nootdorp; Zuid-Holland; NL
+128.220.160.1; mtw160-1.ippl.jhu.edu; 39.3288,-76.5967; Baltimore; Maryland; US
+161.77.43.64; mail.cbrsd.org; 42.5899,-72.5982; Greenfield; Massachusetts; US
+157.55.39.106; msnbot-157-55-39-106.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+208.44.170.102; 208.44.170.102; 32.4814,-84.9033; Columbus; Georgia; US
+66.75.75.102; cpe-66-75-75-102.hawaii.res.rr.com; 19.6256,-155.9194; Holualoa; Hawaii; US
+72.130.196.127; cpe-72-130-196-127.hawaii.res.rr.com; 19.7108,-155.8740; Kailua Kona; Hawaii; US
+70.211.72.71; 71.sub-70-211-72.myvzw.com; 38.5816,-121.4944; Sacramento; California; US
+157.55.39.224; msnbot-157-55-39-224.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+157.55.39.114; msnbot-157-55-39-114.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+78.154.108.90; mail.sjlhs.suffolk.sch.uk; 51.5000,-0.1300; None; None; GB
+198.30.246.157; 198.30.246.157; 40.1071,-82.8981; Westerville; Ohio; US
+68.111.222.219; ip68-111-222-219.sd.sd.cox.net; 33.1387,-116.9849; Escondido; California; US
+207.46.13.85; msnbot-207-46-13-85.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+166.181.3.159; 166.181.3.159; 38.0000,-97.0000; None; None; US
+166.181.3.194; 166.181.3.194; 38.0000,-97.0000; None; None; US
+166.181.3.54; 166.181.3.54; 38.0000,-97.0000; None; None; US
+166.181.3.172; 166.181.3.172; 38.0000,-97.0000; None; None; US
+206.176.81.244; 206.176.81.244; 43.5367,-96.6984; Sioux Falls; South Dakota; US
+157.55.39.225; msnbot-157-55-39-225.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+141.206.173.2; 141.206.173.2; 32.7153,-117.1573; San Diego; California; US
+98.251.67.191; c-98-251-67-191.hsd1.ga.comcast.net; 33.6116,-84.3726; Forest Park; Georgia; US
+66.249.89.38; rate-limited-proxy-66-249-89-38.google.com; 37.4192,-122.0574; Mountain View; California; US
+66.249.89.42; rate-limited-proxy-66-249-89-42.google.com; 37.4192,-122.0574; Mountain View; California; US
+72.160.4.158; 72-160-4-158.dyn.centurytel.net; 48.1987,-114.3857; Kalispell; Montana; US
+66.75.114.211; cpe-66-75-114-211.hawaii.res.rr.com; 19.7108,-155.8740; Kailua Kona; Hawaii; US
+87.54.60.203; 87.54.60.203; 55.7093,9.5357; Vejle; Syddanmark; DK
+71.7.52.196; knvl-01-1220.dsl.iowatelecom.net; 41.2767,-93.4356; Milo; Iowa; US
+73.43.75.178; 73.43.75.178; 38.0000,-97.0000; None; None; US
+70.196.198.146; 146.sub-70-196-198.myvzw.com; 39.7392,-104.9847; Denver; Colorado; US
+142.54.175.254; 142.54.175.254; 39.0997,-94.5786; Kansas City; Missouri; US
+66.220.156.119; 66.220.156.119; 40.7212,-80.9480; Kensington; Ohio; US
+37.58.100.162; 37.58.100.162-static.reverse.softlayer.com; 52.5000,5.7500; None; None; NL
+87.104.34.235; 87-104-34-235-dynamic-customer.profibernet.dk; 56.0000,10.0000; None; None; DK
+54.162.3.135; ec2-54-162-3-135.compute-1.amazonaws.com; 39.0437,-77.4875; Ashburn; Virginia; US
+68.8.139.141; ip68-8-139-141.sd.sd.cox.net; 32.6087,-116.9365; Chula Vista; California; US
+68.115.57.226; 68-115-57-226.static.eucl.wi.charter.com; 44.5981,-89.7262; Junction City; Wisconsin; US
+173.54.36.80; pool-173-54-36-80.nwrknj.fios.verizon.net; 38.0000,-97.0000; None; None; US
+99.38.254.225; 99-38-254-225.lightspeed.sntcca.sbcglobal.net; 37.7799,-121.9780; San Ramon; California; US
+69.14.245.46; d14-69-46-245.try.wideopenwest.com; 42.4312,-83.4833; Northville; Michigan; US
+75.48.216.168; 75-48-216-168.lightspeed.gdrpmi.sbcglobal.net; 42.9960,-85.6314; Grand Rapids; Michigan; US
+172.56.3.200; 172.56.3.200; 38.8951,-77.0364; Washington; District of Columbia; US
+134.134.137.75; jfdmzpr06-ext.jf.intel.com; 45.5234,-122.6762; None; Oregon; US
+50.133.226.194; c-50-133-226-194.hsd1.ma.comcast.net; 42.3221,-71.1334; Brookline; Massachusetts; US
+150.70.173.54; 150-70-173-54.trendmicro.com; 35.6900,139.6900; None; None; JP
+198.202.137.29; 198.202.137.29; 38.0000,-97.0000; None; None; US
+71.14.199.194; 71-14-199-194.static.stls.mo.charter.com; 38.0000,-97.0000; None; None; US
+172.56.28.177; 172.56.28.177; 39.2904,-76.6122; Baltimore; Maryland; US
+118.219.144.32; 118.219.144.32; 37.5985,126.9783; Seoul; Seoul-t'ukpyolsi; KR
+99.117.125.223; 99-117-125-223.lightspeed.chrlnc.sbcglobal.net; 35.1707,-80.7920; Charlotte; North Carolina; US
+65.131.185.87; 65-131-185-87.sxct.qwest.net; 42.5000,-96.4003; Sioux City; Iowa; US
+207.46.13.61; msnbot-207-46-13-61.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+157.55.39.222; msnbot-157-55-39-222.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+173.252.100.114; 173.252.100.114; 40.7212,-80.9480; Kensington; Ohio; US
+152.157.32.11; media.bethel.wednet.edu; 47.0597,-122.3623; Spanaway; Washington; US
+74.99.139.91; pool-74-99-139-91.hrbgpa.east.verizon.net; 40.0052,-76.3246; Lancaster; Pennsylvania; US
+68.225.133.130; wsip-68-225-133-130.ph.ph.cox.net; 33.6310,-112.0939; Phoenix; Arizona; US
+50.82.184.182; 50-82-184-182.client.mchsi.com; 41.4870,-90.4773; Moline; Illinois; US
+75.172.25.76; 75-172-25-76.tukw.qwest.net; 47.3223,-122.3126; Federal Way; Washington; US
+112.104.21.9; 112-104-21-9.adsl.dynamic.seed.net.tw; 25.0392,121.5250; Taipei; T'ai-pei; TW
+128.183.232.149; 128.183.232.149; 38.8336,-76.8777; Greenbelt; Maryland; US
+121.217.90.161; cpe-121-217-90-161.lnse1.cht.bigpond.net.au; -33.8167,151.0000; Parramatta; New South Wales; AU
+75.32.220.124; 75-32-220-124.lightspeed.sndgca.sbcglobal.net; 32.7368,-117.2402; San Diego; California; US
+84.136.139.76; p54888b4c.dip0.t-ipconnect.de; 51.0000,9.0000; None; None; DE
+180.76.6.51; 180.76.6.51; 39.9289,116.3883; Beijing; Beijing; CN
+199.91.135.140; 199.91.135.140; 40.4982,-111.8436; Draper; Utah; US
+209.147.118.160; 209.147.118.160; 47.2626,-122.4413; Tacoma; Washington; US
+199.168.151.87; 199.168.151.87; 37.3887,-122.0188; Sunnyvale; California; US
+50.140.67.127; c-50-140-67-127.hsd1.fl.comcast.net; 26.6633,-80.1284; West Palm Beach; Florida; US
+189.26.106.145; 189.26.106.145.dynamic.adsl.gvt.net.br; -10.0000,-55.0000; None; None; BR
+75.117.126.75; h75.126.117.75.dynamic.ip.windstream.net; 33.9792,-81.2589; Lexington; South Carolina; US
+84.136.150.225; p548896e1.dip0.t-ipconnect.de; 52.1977,8.3389; Melle; Niedersachsen; DE
+72.228.23.220; cpe-72-228-23-220.nycap.res.rr.com; 42.9694,-74.1224; Amsterdam; New York; US
+180.76.6.16; 180.76.6.16; 39.9289,116.3883; Beijing; Beijing; CN
+71.176.230.40; pool-71-176-230-40.rcmdva.fios.verizon.net; 37.4535,-77.4780; Richmond; Virginia; US
+72.160.4.252; 72-160-4-252.dyn.centurytel.net; 48.1987,-114.3857; Kalispell; Montana; US
+216.118.213.6; 216.118.213.6; 43.9909,-79.4639; Aurora; Ontario; CA
+150.70.97.122; 150-70-97-122.trendmicro.com; 35.6900,139.6900; None; None; JP
+65.185.60.228; cpe-65-185-60-228.columbus.res.rr.com; 39.5929,-82.8912; Circleville; Ohio; US
+86.0.27.147; cpc24-heck6-2-0-cust146.4-1.cable.virginm.net; 53.6877,-1.6342; Mirfield; Kirklees; GB
+66.249.64.172; crawl-66-249-64-172.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+192.150.10.210; 192.150.10.210; 37.3394,-121.8950; San Jose; California; US
+180.76.6.151; 180.76.6.151; 39.9289,116.3883; Beijing; Beijing; CN
+24.60.146.216; c-24-60-146-216.hsd1.ct.comcast.net; 41.5573,-72.4945; East Hampton; Connecticut; US
+150.70.97.126; 150-70-97-126.trendmicro.com; 35.6900,139.6900; None; None; JP
+66.249.69.180; crawl-66-249-69-180.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+66.249.81.57; google-proxy-66-249-81-57.google.com; 37.4192,-122.0574; Mountain View; California; US
+66.249.69.164; crawl-66-249-69-164.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+64.91.63.168; 64-91-63-168.stat.centurytel.net; 48.1987,-114.3857; Kalispell; Montana; US
+192.168.1.12; r2-d2.home; ; None; None; None
+66.249.69.196; crawl-66-249-69-196.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+173.224.109.141; 173.224.109.141; 29.7397,-95.8302; Katy; Texas; US
+66.249.69.22; crawl-66-249-69-22.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+98.240.228.138; c-98-240-228-138.hsd1.mn.comcast.net; 45.0101,-93.1519; Saint Paul; Minnesota; US
+71.77.231.73; cpe-071-077-231-073.ec.res.rr.com; 38.0000,-97.0000; None; None; US
+71.179.219.63; pool-71-179-219-63.bltmmd.east.verizon.net; 39.2904,-76.6122; Baltimore; Maryland; US
+174.236.194.110; 110.sub-174-236-194.myvzw.com; 38.8951,-77.0364; Washington; District of Columbia; US
+180.76.6.40; 180.76.6.40; 39.9289,116.3883; Beijing; Beijing; CN
+108.161.23.31; 108.161.23.31; 45.5222,-122.8593; Beaverton; Oregon; US
+75.117.121.210; h210.121.117.75.dynamic.ip.windstream.net; 33.9815,-81.2362; Lexington; South Carolina; US
+66.249.79.156; crawl-66-249-79-156.googlebot.com; 37.4192,-122.0574; Mountain View; California; US
+71.207.45.223; c-71-207-45-223.hsd1.pa.comcast.net; 40.2379,-76.9228; Camp Hill; Pennsylvania; US
+66.249.79.1; crawl-66-249-79-1.googlebot.com; 37.4192,-122.0574; Mountain View; California; US
+66.249.79.148; crawl-66-249-79-148.googlebot.com; 37.4192,-122.0574; Mountain View; California; US
+96.231.65.41; pool-96-231-65-41.washdc.fios.verizon.net; 39.0898,-77.0611; Silver Spring; Maryland; US
+178.191.45.194; 178-191-45-194.adsl.highway.telekom.at; 47.3333,13.3333; None; None; AT
+166.137.240.31; mobile-166-137-240-031.mycingular.net; 38.7510,-77.4753; Manassas; Virginia; US
+50.53.241.142; 50.53.241.142; 45.5222,-122.8593; Beaverton; Oregon; US
+50.53.35.162; static-50-53-35-162.bvtn.or.frontiernet.net; 45.5222,-122.8593; Beaverton; Oregon; US
+71.182.159.199; pool-71-182-159-199.pitbpa.fios.verizon.net; 40.3314,-80.0822; Pittsburgh; Pennsylvania; US
+209.0.138.187; host-sg187.res.openband.net; 38.9995,-77.5286; Ashburn; Virginia; US
+68.58.151.112; c-68-58-151-112.hsd1.in.comcast.net; 41.6671,-85.9659; Elkhart; Indiana; US
+96.35.36.30; 96-35-36-30.dhcp.stls.mo.charter.com; 38.5722,-90.6279; Grover; Missouri; US
+107.22.180.159; ec2-107-22-180-159.compute-1.amazonaws.com; 39.0437,-77.4875; Ashburn; Virginia; US
+134.134.139.73; jfdmzpr04-ext.jf.intel.com; 37.3541,-121.9552; Santa Clara; California; US
+192.55.54.38; fmdmzpr03-ext.fm.intel.com; 45.5234,-122.6762; None; Oregon; US
+108.230.56.17; adsl-108-230-56-17.dsl.sbndin.sbcglobal.net; 38.0000,-97.0000; None; None; US
+163.153.25.240; 163.153.25.240; 42.7161,-73.8158; Albany; New York; US
+24.127.230.213; c-24-127-230-213.hsd1.fl.comcast.net; 30.1796,-81.5182; Jacksonville; Florida; US
+70.198.199.90; 90.sub-70-198-199.myvzw.com; 40.3010,-79.9242; Clairton; Pennsylvania; US
+157.55.39.177; msnbot-157-55-39-177.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+207.46.13.93; msnbot-207-46-13-93.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+74.134.13.36; cpe-74-134-13-36.swo.res.rr.com; 37.9633,-85.7026; Shepherdsville; Kentucky; US
+109.77.30.225; 109.77.30.225; 53.0000,-8.0000; None; None; IE
+201.86.79.178; 201.86.79.178.dynamic.adsl.gvt.net.br; -10.0000,-55.0000; None; None; BR
+198.245.62.10; ns5000243.ip-198-245-62.net; 45.5078,-73.5804; Montréal; Quebec; CA
+180.76.6.60; 180.76.6.60; 39.9289,116.3883; Beijing; Beijing; CN
+131.109.15.2; 131.109.15.2; 41.5877,-71.4623; North Kingstown; Rhode Island; US
+87.233.165.164; app02.symbaloo.net; 52.5000,5.7500; None; None; NL
+180.76.6.29; 180.76.6.29; 39.9289,116.3883; Beijing; Beijing; CN
+206.193.5.4; sd81-5-4.spokaneschools.org; 47.6287,-117.4011; Spokane; Washington; US
+76.97.25.82; c-76-97-25-82.hsd1.ga.comcast.net; 34.2577,-84.4921; Canton; Georgia; US
+98.16.135.39; h39.135.16.98.dynamic.ip.windstream.net; 40.8000,-96.6670; Lincoln; Nebraska; US
+180.76.6.132; 180.76.6.132; 39.9289,116.3883; Beijing; Beijing; CN
+37.58.100.184; 37.58.100.184-static.reverse.softlayer.com; 52.5000,5.7500; None; None; NL
+84.136.178.74; p5488b24a.dip0.t-ipconnect.de; 52.1534,8.0504; Bad Iburg; Niedersachsen; DE
+64.7.137.182; 64.7.137.182; 43.4801,-80.4801; Waterloo; Ontario; CA
+70.112.215.5; cpe-70-112-215-5.austin.res.rr.com; 30.2966,-97.7663; Austin; Texas; US
+209.255.2.226; 209.255.2.226; 42.9294,-85.5456; Grand Rapids; Michigan; US
+207.46.13.42; msnbot-207-46-13-42.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+189.125.153.146; 11.intertower.com.br; -25.4167,-49.2500; Curitiba; Parana; BR
+24.132.98.200; j98200.upc-j.chello.nl; 51.8060,4.3365; Oud-beijerland; Zuid-Holland; NL
+85.64.219.11; 85.64.219.11.dynamic.barak-online.net; 32.8156,34.9892; Haifa; Hefa; IL
+173.252.120.117; 173.252.120.117; 40.7212,-80.9480; Kensington; Ohio; US
+15.211.201.83; zccy01cs103.houston.hp.com; 37.3762,-122.1826; Palo Alto; California; US
+206.193.245.231; 206.193.245.231.nauticom.net; 40.6990,-80.0334; Mars; Pennsylvania; US
+157.55.39.151; msnbot-157-55-39-151.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+180.76.6.45; 180.76.6.45; 39.9289,116.3883; Beijing; Beijing; CN
+76.106.179.12; c-76-106-179-12.hsd1.fl.comcast.net; 30.0576,-82.6021; Lake City; Florida; US
+95.223.105.253; ip-95-223-105-253.hsi16.unitymediagroup.de; 51.0000,9.0000; None; None; DE
+68.57.70.98; c-68-57-70-98.hsd1.va.comcast.net; 37.4702,-79.0652; Madison Heights; Virginia; US
+73.161.151.176; 73.161.151.176; 38.0000,-97.0000; None; None; US
+54.187.222.253; ec2-54-187-222-253.us-west-2.compute.amazonaws.com; 45.7788,-119.5290; Boardman; Oregon; US
+157.55.39.152; msnbot-157-55-39-152.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+206.131.108.4; s4-108.weststpaul.k12.mn.us; 44.8093,-93.1975; Saint Paul; Minnesota; US
+157.55.39.226; msnbot-157-55-39-226.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+72.160.3.62; 72-160-3-62.dyn.centurytel.net; 48.1987,-114.3857; Kalispell; Montana; US
+68.60.67.187; c-68-60-67-187.hsd1.mi.comcast.net; 42.3291,-83.4877; Canton; Michigan; US
+150.70.173.47; 150-70-173-47.trendmicro.com; 35.6900,139.6900; None; None; JP
+107.77.90.126; 107.77.90.126; 38.0000,-97.0000; None; None; US
+134.134.139.70; jfdmzpr01-ext.jf.intel.com; 37.3541,-121.9552; Santa Clara; California; US
+161.98.10.170; 161.98.10.170; 40.0481,-105.3842; Boulder; Colorado; US
+207.46.13.6; msnbot-207-46-13-6.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+68.7.42.193; ip68-7-42-193.sd.sd.cox.net; 32.7794,-116.8600; El Cajon; California; US
+85.19.187.21; 85.19.187.21; 60.3911,5.3247; Bergen; Hordaland; NO
+157.182.84.10; 157.182.84.10; 39.6456,-79.9433; Morgantown; West Virginia; US
+198.30.251.116; 198.30.251.116; 39.9881,-83.0444; Columbus; Ohio; US
+81.144.164.210; 81.144.164.210; 51.5000,-0.1300; None; None; GB
+99.43.68.64; 99-43-68-64.lightspeed.cicril.sbcglobal.net; 42.1584,-88.1592; Barrington; Illinois; US
+50.89.144.32; 50-89-144-32.res.bhn.net; 28.3899,-81.4366; Orlando; Florida; US
+72.211.189.77; ip72-211-189-77.tc.ph.cox.net; 33.6096,-112.3773; Surprise; Arizona; US
+66.249.88.171; google-proxy-66-249-88-171.google.com; 37.4192,-122.0574; Mountain View; California; US
+66.249.65.102; crawl-66-249-65-102.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+174.129.76.93; ec2-174-129-76-93.compute-1.amazonaws.com; 39.0437,-77.4875; Ashburn; Virginia; US
+54.197.9.197; ec2-54-197-9-197.compute-1.amazonaws.com; 39.0437,-77.4875; Ashburn; Virginia; US
+54.90.142.50; ec2-54-90-142-50.compute-1.amazonaws.com; 38.6582,-77.2497; None; Virginia; US
+184.72.145.44; ec2-184-72-145-44.compute-1.amazonaws.com; 39.0437,-77.4875; Ashburn; Virginia; US
+54.204.201.117; ec2-54-204-201-117.compute-1.amazonaws.com; 39.0437,-77.4875; Ashburn; Virginia; US
+54.167.4.246; ec2-54-167-4-246.compute-1.amazonaws.com; 39.0437,-77.4875; Ashburn; Virginia; US
+178.255.215.91; crawl323.exabot.com; 48.8600,2.3500; None; None; FR
+66.249.65.110; crawl-66-249-65-110.googlebot.com; 37.3860,-122.0838; Mountain View; California; US
+198.81.129.195; relay203.net.cia.gov; 38.8951,-77.0364; Washington; District of Columbia; US
+67.176.59.136; c-67-176-59-136.hsd1.co.comcast.net; 39.9721,-105.2493; Boulder; Colorado; US
+173.79.102.177; pool-173-79-102-177.washdc.fios.verizon.net; 38.8884,-77.1809; Falls Church; Virginia; US
+198.30.249.94; 198.30.249.94; 39.9548,-82.7693; Reynoldsburg; Ohio; US
+198.81.129.194; relay202.net.cia.gov; 38.8951,-77.0364; Washington; District of Columbia; US
+141.233.194.16; 141.233.194.16; 44.0599,-88.5278; Oshkosh; Wisconsin; US
+46.188.29.153; broadband-46-188-29-153.2com.net; 55.7522,37.6156; Moscow; Moscow City; RU
+71.62.43.177; c-71-62-43-177.hsd1.va.comcast.net; 39.0138,-77.3987; Sterling; Virginia; US
+72.66.112.30; pool-72-66-112-30.washdc.fios.verizon.net; 39.0892,-77.1835; Rockville; Maryland; US
+199.91.183.58; 199.91.183.58; 44.4614,-93.2007; Northfield; Minnesota; US
+66.220.156.112; 66.220.156.112; 40.7212,-80.9480; Kensington; Ohio; US
+180.76.6.134; 180.76.6.134; 39.9289,116.3883; Beijing; Beijing; CN
+74.51.175.225; 74.51.175.225; 40.2153,-79.6854; Yukon; Pennsylvania; US
+107.218.73.220; 107.218.73.220; 34.8601,-82.2464; Greenville; South Carolina; US
+66.249.93.57; google-proxy-66-249-93-57.google.com; 37.4192,-122.0574; Mountain View; California; US
+157.55.39.168; msnbot-157-55-39-168.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+202.45.133.2; 202.45.133.2; 3.6810,101.5198; Tanjong Malim; Perak; MY
+118.101.68.177; 118.101.68.177; 3.2333,101.6667; Batu Caves; Selangor; MY
+76.117.91.204; c-76-117-91-204.hsd1.nj.comcast.net; 40.5170,-74.8680; Flemington; New Jersey; US
+69.48.154.4; chapin-fw1.chapin.edu; 40.7805,-73.9512; New York; New York; US
+12.180.227.125; globalnat03.nths.net; 42.1137,-87.7609; Winnetka; Illinois; US
+24.98.205.241; c-24-98-205-241.hsd1.ga.comcast.net; 33.6687,-84.4653; Atlanta; Georgia; US
+150.70.97.112; 150-70-97-112.trendmicro.com; 35.6900,139.6900; None; None; JP
+98.116.70.43; pool-98-116-70-43.nycmny.fios.verizon.net; 40.7493,-73.6824; New Hyde Park; New York; US
+70.193.132.226; 226.sub-70-193-132.myvzw.com; 33.9526,-84.5499; Marietta; Georgia; US
+71.171.97.62; pool-71-171-97-62.clppva.fios.verizon.net; 38.9995,-77.5286; Ashburn; Virginia; US
+209.212.25.38; 209.212.25.38; 40.5377,-74.3111; Fords; New Jersey; US
+157.55.39.165; msnbot-157-55-39-165.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+207.46.13.128; msnbot-207-46-13-128.search.msn.com; 47.6801,-122.1206; Redmond; Washington; US
+165.155.196.66; 165.155.196.66; 40.6100,-73.9108; Brooklyn; New York; US
+71.197.0.141; c-71-197-0-141.hsd1.va.comcast.net; 37.2669,-80.4325; Blacksburg; Virginia; US

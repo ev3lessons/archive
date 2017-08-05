@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_COOKIE} !^.*tutorial.*$ [NC]
+RewriteRule .* http://form.ev3lessons.com/form/ [NC,L]

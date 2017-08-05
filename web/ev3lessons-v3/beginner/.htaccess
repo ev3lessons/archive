@@ -1,0 +1,10 @@
+RewriteEngine On
+RewriteBase /
+
+# allow these referers to passthrough
+
+RewriteCond %{HTTP_COOKIE} !^.*tutorial.*$ [NC]
+RewriteCond %{HTTP_REFERER} !^http://form\.ev3lessons\.com(.*)?$ [NC]
+RewriteRule .* http://form.ev3lessons.com/form/index.php?fromurl=http://%{SERVER_NAME}%{REQUEST_URI} [NC,L]
+
+

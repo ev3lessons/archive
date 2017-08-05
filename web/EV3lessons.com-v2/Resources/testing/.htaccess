@@ -1,0 +1,6 @@
+AuthUserFile /var/www/webalizer/.htpasswd
+AuthType Basic
+AuthName "Website stats"
+require valid-user
+order deny,allow
+allow from all

@@ -1,0 +1,42 @@
+1) What is a My Block?
+
+A My Block is a combination of one or more blocks that you create that can be grouped into a single block.  My Blocks are basically your own custom block in NXT or EV3. Once a My Block is created, you can use it in multiple programs.  Just like any other block in NXT/EV3, My Blocks can have both inputs and outputs. 
+
+The instructions below and the attachment are for the EV3.  If you don’t have an EV3, we can do screen grabs and send you the lesson.  Let us know.
+
+Basic instructions to create any My Block. Follow these steps.  More detailed instructions for specific My Blocks with inputs and outputs are at the bottom of this email.
+
+1) Create any program.  It can be any set of blocks you want to use over and over again.
+2) Highlight the set of blocks that you want in your My Block and select the “TOOLS” Menu
+3) Pick “My Block Builder” from the Menu
+4) The selected blocks and connected wires will be automatically added to the My Block and the necessary inputs and outputs will be created. We will show this in the MoveInches My Block below. 
+5) Follow the instructions to name and choose icons for the new block, its inputs, its outputs, etc.  Inputs and Outputs are called “Parameters”. In EV3, you can add extra inputs and outputs at this stage if you want. However, once you make a My Block it is impossible to change any of the parameter names, their settings and the any icons later.
+
+2) When do you use a My Block and what makes a good My Block 
+
+When do you use a My Block:
+
+1) My Blocks can be created and used whenever the robot is going to repeat an action inside your program or even inside a different program (mission).  
+2) My Blocks can be used to organize your code.  For instance, if you have 2 different versions of a robot run in FLL and the first half of both of them are identical, then making the first half of the code into a My Block allows you to “clean up your code” in both programs.
+3) Making My Blocks with inputs and outputs can make them far more useful. However, you need to be careful not to make the My Block too complicated.
+
+What makes a useful My Block: 
+
+Question: Look at the list of three My Blocks.  Which ones do you think are useful for a team to use?
+Move2Inches (moves the robot two inches)
+MoveInches with an inches and power input
+MoveInches with inches, power, angle, coast/brake, etc.  inputs
+
+Answer: The first line of My Blocks (Move2Inches) may be used often but you will be forced to make other My Blocks for other distances. This will be hard to update or fix later on. The last My Block might look more useful but most of the inputs might never be used in any mission. The middle choice is probably the best choice for most teams. 
+
+3) What is a common My Block that the Droids use? 
+
+Built-in move blocks will not take inputs (values) in centimeters or inches.  Usually, you get to use only rotations, seconds, degrees or infinite as your inputs.  If you were programming a mission on an FLL board, it is much easier to take out a ruler and measure how far you want the robot to move.  Otherwise, you have to guess-and-check to know how many rotations it takes to get your robot where it needs to go on the table. As a result, we use a MoveInches My Block. 
+
+This My Block also has some other benefits. Sometimes, you are 1 month into FLL and you change your robot design to have bigger or smaller wheels.  It would be painful to go back and remeasure every movement of your robot.  So, here is where the MoveInches My Block would come in handy.  Instead of changing distances in every single program you wrote, just go into your cool MoveInches Block and change the value for how many inches/cm one motor rotation would take.
+
+Droids and a couple of other teams we have helped used the MoveInches My Block this season to measure distances using a ruler.   Programming missions becomes a lot easier when you can measure with a ruler.  If your team does not use it already, we highly recommend it.
+
+4) How do you make My Blocks with Inputs and Outputs?
+
+We teach you how to make 2 useful My Blocks - Move Inches and a Inches to Degrees My Blocks.   See the attached EV3 File with step-by-step instructions and the actual code for you to learn how to make a useful My Block.  Start at the Phase 1 tab and read all the comments in each one.  We also show you the final programs.   If you don’t have an EV3, we can do screen grabs and send you the lesson.  Let us know.
