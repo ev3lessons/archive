@@ -3,9 +3,7 @@
 // JS code to save and load saves to/from localStorage or a variable
 // Legacy opt-in code --> replaced with the Google Sheets API
 
-// This file is still necessary for the getvar() and loadsave(save) functions, which are used throughout
-
-// Kept for compatibility with IE and iOS/Android (WK)webView
+// Kept for compatibility with IE and iOS and Android webView
 
 //Init vars
 n = 0;
@@ -15,11 +13,11 @@ store = []
 score = ""
 datetime = ""
 
-if (window.localStorage.DRCSS1scorer == undefined){
-  window.localStorage.DRCSS1scorer = ''
+if (window.localStorage.DRIOS1scorer == undefined){
+  window.localStorage.DRIOS1scorer = ''
 }
 
-// Function to get status check of all missions and store in var store (also returned)
+// Function to get status check of all missions and store in var store
 function getvar() {
   count = 0
   count1 = 0
@@ -32,7 +30,6 @@ function getvar() {
     }
     count = count + 1
   }
-    return store
 }
 
 //load a getvar() var store save
@@ -69,7 +66,7 @@ function loadsave(save) {
 // Load a localStorage getvar() var store save by id
 function loader(save) {
   alert(loadedText);
-  data = window.localStorage.DRCSSscorer.split('/')[save];
+  data = window.localStorage.DRIOSscorer.split('/')[save];
   loadsave(String(data));
 }
 
@@ -80,11 +77,11 @@ function drawBasic() {
 
   nn = 1;
   array = [];
-  array[0] = parseInt(window.localStorage.DRCSS1scorer.split(' Points')[0].split(',')[0]);
+  array[0] = parseInt(window.localStorage.DRIOS1scorer.split(' Points')[0].split(',')[0]);
   vvv = 1;
-  lt = window.localStorage.DRCSS1scorer.split(',').length - 0;
+  lt = window.localStorage.DRIOS1scorer.split(',').length - 0;
   while (vvv < lt) {
-    array[nn] = parseInt(window.localStorage.DRCSS1scorer.split(' Points')[vvv].split(',')[1]);
+    array[nn] = parseInt(window.localStorage.DRIOS1scorer.split(' Points')[vvv].split(',')[1]);
     vvv = vvv + 1;
     nn = nn+1;
   }
@@ -137,12 +134,12 @@ $(function () {
 // Display saveDateTimeScore() data under graph
 function displaysaves() {
     n = 0;
-    a = window.localStorage.DRCSS1scorer.split(',').length;
+    a = window.localStorage.DRIOS1scorer.split(',').length;
     document.getElementById('saves').innerHTML = "";
-    if (window.localStorage.DRCSS1scorer != undefined && window.localStorage.DRCSS1scorer != "") {
+    if (window.localStorage.DRIOS1scorer != undefined && window.localStorage.DRIOS1scorer != "") {
 	while(n < a) {
 	    //alert(n)
-	    document.getElementById('saves').innerHTML = document.getElementById('saves').innerHTML +' '+saveText+' '+ String(n+1) + ': ' +  window.localStorage.DRCSS1scorer.split(',')[n].split('Points')[0] + pointsText + window.localStorage.DRCSS1scorer.split(',')[n].split('Points')[1] + '<br>'  ;
+	    document.getElementById('saves').innerHTML = document.getElementById('saves').innerHTML +' '+saveText+' '+ String(n+1) + ': ' +  window.localStorage.DRIOS1scorer.split(',')[n].split('Points')[0] + pointsText + window.localStorage.DRIOS1scorer.split(',')[n].split('Points')[1] + '<br>'  ;
 	    n = n+1;
 	}
     }
@@ -197,14 +194,14 @@ function saveDateTimeScore() {
 // save getvar() and saveDateTimeScore to localStorage
 function saver() {
     // Save all missions
-    store = getvar();
-    window.localStorage.DRCSSscorer = window.localStorage.DRCSSscorer + '/' + store
+    getvar();
+    window.localStorage.DRIOSscorer = window.localStorage.DRIOSscorer + '/' + store
     // Save time stamp and score
     saveDateTimeScore()
-    if (window.localStorage.DRCSS1scorer != undefined && window.localStorage.DRCSS1scorer != '' ) {
-	window.localStorage.DRCSS1scorer = String(window.localStorage.DRCSS1scorer) + ',' + String( score ) + ' Points - ' + datetime;
+    if (window.localStorage.DRIOS1scorer != undefined && window.localStorage.DRIOS1scorer != '' ) {
+	window.localStorage.DRIOS1scorer = String(window.localStorage.DRIOS1scorer) + ',' + String( score ) + ' Points - ' + datetime;
     } else {
-	window.localStorage.DRCSS1scorer =  score  + ' Points - ' + datetime;
+	window.localStorage.DRIOS1scorer =  score  + ' Points - ' + datetime;
     }
 
     alert(savedText);

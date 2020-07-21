@@ -1,8 +1,7 @@
 // Google Saving System 1.1.0
-// WARNING: This is not standalone and requires saver.js (Legacy Saving System) currently. It calculates the getvar() function.
+// WARNING: This is not standalone and requires saver.js (Legacy Saving System) currently. It calculates the getvar() function. 
 //          loadsave() is also used from saver.js. They will (hopefullly) be ported to this saver eventually.
 //          Currently not compatible with IE or iOS/Android WebView --> Use Legacy Version.
-// ALERT: Due to insecure authentication over HTTP, Google has currently disabled new users to use this feature as on 18 Aug. 2019.
 
 // Client ID and API key from the Developer Console
 var CLIENT_ID = "770638819380-bs28pclo8lguc58e01oju4ei1r88i320.apps.googleusercontent.com";
@@ -28,15 +27,15 @@ function saveDateTimeScoreGoogle() {
     var month = currentTime.getMonth() + 1
     var day = currentTime.getDate()
     var year = currentTime.getFullYear()
-
+    
     var currentdate = month + "/" + day + "/" + year;
-
-
+    
+    
     var hours = currentTime.getHours()
     var minutes = currentTime.getMinutes()
-
+    
     score = document.getElementById('allpoints').innerHTML;
-
+    
     if (minutes < 10){
       minutes = "0" + minutes
     }
@@ -47,7 +46,7 @@ function saveDateTimeScoreGoogle() {
 
 
     datetime = currentdate + ' ' + currenttime;
-
+    
 }
 
 
@@ -124,7 +123,10 @@ function appendPre(message) {
 
 function addHeaders(spreadsheetId) {
   var values = [
-    google_headers,
+    [
+      // Cell values ...
+      "Total Points","Date/Time", "Round #", "Team #", "M01a", "M01b", "M01c", "M02a", "M02b", "M03a", "M03b", "M04", "M05a", "M05b", "M05c", "M05d", "M06a", "M06b", "M06c", "M07", "M08a", "M08b", "M08c", "M09", "M10", "M11", "M12", "M13a", "M13b", "M13c", "M14a", "M14b", "M15a", "M15b", "M15c", "P01"
+    ],
     // Additional rows ...
   ];
   var body = {
@@ -154,13 +156,13 @@ function makeSheet() {
     // TODO: Change code below to process the `response` object:
     sheet = response.result;
     document.getElementById('sheetId').value = sheet["spreadsheetId"];
-    window.localStorage.DRCSGoogleSheet = sheet["spreadsheetId"];
+    window.localStorage.DRIOGoogleSheet = sheet["spreadsheetId"];
     var requests = [];
     // Change the spreadsheet's title.
     requests.push({
       updateSpreadsheetProperties: {
         properties: {
-          title: 'FLLTutorials FLL City Shaper Scorer'
+          title: 'FLLTutorials FLL Into Orbit Scorer'
         },
         fields: 'title'
       }
